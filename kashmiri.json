@@ -1,0 +1,1109 @@
+[
+  {
+    "name": "Rogan Josh",
+    "cuisine": "Kashmiri",
+    "steps": [
+      "Pat lamb dry and brown in oil in batches; set aside.",
+      "Fry onions until golden, then add yogurt and Kashmiri spice mix; cook until oil separates.",
+      "Return lamb, add a little water, cover, and simmer on low until tender (about 1\u20131\u00bd hours).",
+      "Adjust salt, finish with garam masala if using, and serve with rice or bread."
+    ],
+    "instructions": "Brown lamb with yogurt and Kashmiri spices; low simmer until tender.",
+    "prep_minutes": 70,
+    "calories_per_serving": 480,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Lamb",
+        "amount": 600,
+        "unit": "g"
+      },
+      {
+        "name": "Yogurt",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Onion",
+        "amount": 2,
+        "unit": "each"
+      }
+    ],
+    "diet_tags": [
+      "high-protein",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ],
+    "image_url": "https://www.themealdb.com/images/media/meals/vvstvq1487342592.jpg"
+  },
+  {
+    "name": "Yakhni Pulao",
+    "cuisine": "Kashmiri",
+    "instructions": "Cook rice in aromatic meat broth until fluffy and fragrant.",
+    "prep_minutes": 55,
+    "calories_per_serving": 420,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Basmati rice",
+        "amount": 350,
+        "unit": "g"
+      },
+      {
+        "name": "Chicken",
+        "amount": 400,
+        "unit": "g"
+      },
+      {
+        "name": "Whole spices",
+        "amount": 1,
+        "unit": "tbsp"
+      }
+    ],
+    "diet_tags": [
+      "high-protein",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Chicken_Yakhni_Pulao.jpg/960px-Chicken_Yakhni_Pulao.jpg"
+  },
+  {
+    "name": "Dum Olav",
+    "cuisine": "Kashmiri",
+    "instructions": "Potatoes in yogurt gravy with fennel and gentle heat.",
+    "prep_minutes": 45,
+    "calories_per_serving": 340,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Potato",
+        "amount": 500,
+        "unit": "g"
+      },
+      {
+        "name": "Yogurt",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Fennel powder",
+        "amount": 1,
+        "unit": "tsp"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "high-fiber"
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Kashmiri_Dum_Aaloo.JPG/960px-Kashmiri_Dum_Aaloo.JPG"
+  },
+  {
+    "name": "Nadur Yakhni",
+    "cuisine": "Kashmiri",
+    "instructions": "Lotus stem in yogurt sauce with dried mint.",
+    "prep_minutes": 50,
+    "calories_per_serving": 320,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Lotus stem",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "Yogurt",
+        "amount": 180,
+        "unit": "g"
+      },
+      {
+        "name": "Oil",
+        "amount": 2,
+        "unit": "tbsp"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "high-fiber"
+    ]
+  },
+  {
+    "name": "Haak",
+    "cuisine": "Kashmiri",
+    "instructions": "Braised greens with asafoetida and whole red chili.",
+    "prep_minutes": 35,
+    "calories_per_serving": 210,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Spinach",
+        "amount": 400,
+        "unit": "g"
+      },
+      {
+        "name": "Oil",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Dried chili",
+        "amount": 2,
+        "unit": "each"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "high-fiber"
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Alar_Haak_2008.jpg"
+  },
+  {
+    "name": "Gushtaba",
+    "cuisine": "Kashmiri",
+    "instructions": "Hand-minced lamb meatballs in white yogurt gravy; do not boil hard.",
+    "prep_minutes": 80,
+    "calories_per_serving": 520,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Ground lamb",
+        "amount": 500,
+        "unit": "g"
+      },
+      {
+        "name": "Yogurt",
+        "amount": 400,
+        "unit": "g"
+      },
+      {
+        "name": "Cardamom",
+        "amount": 4,
+        "unit": "pods"
+      }
+    ],
+    "diet_tags": [
+      "high-protein",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Gushtaba..JPG/960px-Gushtaba..JPG"
+  },
+  {
+    "name": "Rista",
+    "cuisine": "Kashmiri",
+    "instructions": "Meatballs in red chili\u2013fennel gravy; finish with coriander.",
+    "prep_minutes": 75,
+    "calories_per_serving": 500,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Lamb mince",
+        "amount": 450,
+        "unit": "g"
+      },
+      {
+        "name": "Kashmiri chili",
+        "amount": 2,
+        "unit": "tsp"
+      },
+      {
+        "name": "Onion",
+        "amount": 1,
+        "unit": "large"
+      }
+    ],
+    "diet_tags": [
+      "high-protein",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ]
+  },
+  {
+    "name": "Tabak Maaz",
+    "cuisine": "Kashmiri",
+    "instructions": "Lamb ribs braised then crisped in ghee until edges caramelize.",
+    "prep_minutes": 60,
+    "calories_per_serving": 540,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Lamb ribs",
+        "amount": 650,
+        "unit": "g"
+      },
+      {
+        "name": "Ghee",
+        "amount": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Cinnamon",
+        "amount": 1,
+        "unit": "stick"
+      }
+    ],
+    "diet_tags": [
+      "high-protein",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/TabakMaaz_wazwan.jpg"
+  },
+  {
+    "name": "Marchwangan Korma",
+    "cuisine": "Kashmiri",
+    "instructions": "Chicken in browned-onion sauce with warm spices.",
+    "prep_minutes": 55,
+    "calories_per_serving": 460,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Chicken",
+        "amount": 550,
+        "unit": "g"
+      },
+      {
+        "name": "Onion",
+        "amount": 3,
+        "unit": "each"
+      },
+      {
+        "name": "Tomato",
+        "amount": 200,
+        "unit": "g"
+      }
+    ],
+    "diet_tags": [
+      "high-protein",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ]
+  },
+  {
+    "name": "Kaliya",
+    "cuisine": "Kashmiri",
+    "instructions": "Lamb in turmeric-forward yogurt gravy; slow simmer.",
+    "prep_minutes": 55,
+    "calories_per_serving": 470,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Lamb",
+        "amount": 500,
+        "unit": "g"
+      },
+      {
+        "name": "Yogurt",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Turmeric",
+        "amount": 1,
+        "unit": "tsp"
+      }
+    ],
+    "diet_tags": [
+      "high-protein",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ]
+  },
+  {
+    "name": "Lyodur Tschaman",
+    "cuisine": "Kashmiri",
+    "instructions": "Paneer in golden yogurt sauce with fennel.",
+    "prep_minutes": 40,
+    "calories_per_serving": 380,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "Yogurt",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Cream",
+        "amount": 80,
+        "unit": "ml"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "high-protein"
+    ]
+  },
+  {
+    "name": "Daniwal Korma",
+    "cuisine": "Kashmiri",
+    "instructions": "Lamb with coriander-forward yogurt korma; gentle heat.",
+    "prep_minutes": 65,
+    "calories_per_serving": 490,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Lamb",
+        "amount": 550,
+        "unit": "g"
+      },
+      {
+        "name": "Yogurt",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Coriander",
+        "amount": 0.5,
+        "unit": "cup"
+      }
+    ],
+    "diet_tags": [
+      "high-protein",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ]
+  },
+  {
+    "name": "Aab Gosh",
+    "cuisine": "Kashmiri",
+    "instructions": "Lamb chunks with milk, fennel, and cardamom until tender.",
+    "prep_minutes": 70,
+    "calories_per_serving": 510,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Lamb",
+        "amount": 600,
+        "unit": "g"
+      },
+      {
+        "name": "Milk",
+        "amount": 300,
+        "unit": "ml"
+      },
+      {
+        "name": "Fennel",
+        "amount": 1,
+        "unit": "tsp"
+      }
+    ],
+    "diet_tags": [
+      "high-protein",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ]
+  },
+  {
+    "name": "Methi Maaz",
+    "cuisine": "Kashmiri",
+    "instructions": "Tripe with fenugreek leaves and mild spices.",
+    "prep_minutes": 55,
+    "calories_per_serving": 380,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Tripe",
+        "amount": 400,
+        "unit": "g"
+      },
+      {
+        "name": "Fenugreek leaves",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "Onion",
+        "amount": 1,
+        "unit": "each"
+      }
+    ],
+    "diet_tags": [
+      "high-protein",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ]
+  },
+  {
+    "name": "Safed Kokur",
+    "cuisine": "Kashmiri",
+    "instructions": "Chicken in white yogurt\u2013almond gravy.",
+    "prep_minutes": 45,
+    "calories_per_serving": 420,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Chicken",
+        "amount": 600,
+        "unit": "g"
+      },
+      {
+        "name": "Yogurt",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Almond paste",
+        "amount": 3,
+        "unit": "tbsp"
+      }
+    ],
+    "diet_tags": [
+      "high-protein",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ]
+  },
+  {
+    "name": "Modur Pulao",
+    "cuisine": "Kashmiri",
+    "instructions": "Sweet aromatic rice with nuts dried fruit and light sugar.",
+    "prep_minutes": 40,
+    "calories_per_serving": 360,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Basmati rice",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "Mixed nuts",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "Saffron",
+        "amount": 1,
+        "unit": "pinch"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ]
+  },
+  {
+    "name": "Monji Haak",
+    "cuisine": "Kashmiri",
+    "instructions": "Kohlrabi greens dry-style with mustard oil.",
+    "prep_minutes": 35,
+    "calories_per_serving": 180,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Kohlrabi with greens",
+        "amount": 500,
+        "unit": "g"
+      },
+      {
+        "name": "Mustard oil",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Asafoetida",
+        "amount": 0.25,
+        "unit": "tsp"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "high-fiber"
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Alar_Haak_2008.jpg"
+  },
+  {
+    "name": "Shufta",
+    "cuisine": "Kashmiri",
+    "instructions": "Celebration sweet of nuts dried fruit saffron and light syrup.",
+    "prep_minutes": 30,
+    "calories_per_serving": 280,
+    "servings": 6,
+    "ingredients": [
+      {
+        "name": "Mixed nuts",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "Dried apricots",
+        "amount": 60,
+        "unit": "g"
+      },
+      {
+        "name": "Saffron",
+        "amount": 1,
+        "unit": "pinch"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ]
+  },
+  {
+    "name": "Kashmiri Harissa",
+    "cuisine": "Kashmiri",
+    "instructions": "Winter radish\u2013meat stew with slow heat (not chili harissa paste).",
+    "prep_minutes": 90,
+    "calories_per_serving": 440,
+    "servings": 6,
+    "ingredients": [
+      {
+        "name": "Mutton",
+        "amount": 500,
+        "unit": "g"
+      },
+      {
+        "name": "Turnip",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "Rice flour",
+        "amount": 2,
+        "unit": "tbsp"
+      }
+    ],
+    "diet_tags": [
+      "high-protein",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ]
+  },
+  {
+    "name": "Waza Kokur",
+    "cuisine": "Kashmiri",
+    "instructions": "Whole chicken opened flat; yogurt spice marinade then roast.",
+    "prep_minutes": 75,
+    "calories_per_serving": 480,
+    "servings": 6,
+    "ingredients": [
+      {
+        "name": "Whole chicken",
+        "amount": 1400,
+        "unit": "g"
+      },
+      {
+        "name": "Yogurt",
+        "amount": 250,
+        "unit": "g"
+      },
+      {
+        "name": "Garlic ginger paste",
+        "amount": 3,
+        "unit": "tbsp"
+      }
+    ],
+    "diet_tags": [
+      "high-protein",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ]
+  },
+  {
+    "name": "Noon Chai",
+    "cuisine": "Kashmiri",
+    "instructions": "Simmer green tea with milk, salt, and baking soda until blush-pink; whisk to froth and serve hot with Kashmiri bread.",
+    "prep_minutes": 25,
+    "calories_per_serving": 90,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Green tea leaves",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Milk",
+        "amount": 600,
+        "unit": "ml"
+      },
+      {
+        "name": "Salt",
+        "amount": 0.25,
+        "unit": "tsp"
+      },
+      {
+        "name": "Baking soda",
+        "amount": 1,
+        "unit": "pinch"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "low-sodium"
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dry_fuit_vendor_drinks_noon_chai.jpg/960px-Dry_fuit_vendor_drinks_noon_chai.jpg"
+  },
+  {
+    "name": "Muji Gaad",
+    "cuisine": "Kashmiri",
+    "instructions": "Fry fish lightly; simmer with radish, turmeric, and gentle spices in thin gravy until radish is tender.",
+    "prep_minutes": 45,
+    "calories_per_serving": 360,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "White fish fillets",
+        "amount": 500,
+        "unit": "g"
+      },
+      {
+        "name": "Radish",
+        "amount": 250,
+        "unit": "g"
+      },
+      {
+        "name": "Mustard oil",
+        "amount": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Turmeric",
+        "amount": 0.5,
+        "unit": "tsp"
+      }
+    ],
+    "diet_tags": [
+      "high-protein",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ]
+  },
+  {
+    "name": "Tehar",
+    "cuisine": "Kashmiri",
+    "instructions": "Cook basmati rice with turmeric and whole spices in oil until fragrant; steam until fluffy.",
+    "prep_minutes": 35,
+    "calories_per_serving": 310,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Basmati rice",
+        "amount": 320,
+        "unit": "g"
+      },
+      {
+        "name": "Turmeric",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "Cooking oil",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Whole spices",
+        "amount": 1,
+        "unit": "tbsp"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "high-fiber"
+    ]
+  },
+  {
+    "name": "Chok Wangun",
+    "cuisine": "Kashmiri",
+    "instructions": "Slit baby eggplants; brown in oil then simmer in spiced yogurt-tomato gravy until soft.",
+    "prep_minutes": 50,
+    "calories_per_serving": 240,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Baby eggplant",
+        "amount": 500,
+        "unit": "g"
+      },
+      {
+        "name": "Yogurt",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Tomato",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Fennel powder",
+        "amount": 1,
+        "unit": "tsp"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "high-fiber"
+    ]
+  },
+  {
+    "name": "Nadir Monji",
+    "cuisine": "Kashmiri",
+    "instructions": "Cut lotus stem into fingers; coat in seasoned rice flour and shallow-fry until crisp.",
+    "prep_minutes": 30,
+    "calories_per_serving": 280,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Lotus stem",
+        "amount": 350,
+        "unit": "g"
+      },
+      {
+        "name": "Rice flour",
+        "amount": 4,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Kashmiri chili powder",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "Oil",
+        "amount": 4,
+        "unit": "tbsp"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ]
+  },
+  {
+    "name": "Al Hachi",
+    "cuisine": "Kashmiri",
+    "instructions": "Cook bottle gourd until soft; finish in yogurt sauce with dried mint and mild spices.",
+    "prep_minutes": 40,
+    "calories_per_serving": 190,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Bottle gourd",
+        "amount": 450,
+        "unit": "g"
+      },
+      {
+        "name": "Yogurt",
+        "amount": 180,
+        "unit": "g"
+      },
+      {
+        "name": "Dried mint",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "Oil",
+        "amount": 2,
+        "unit": "tbsp"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "high-fiber"
+    ]
+  },
+  {
+    "name": "Rajma Gogji",
+    "cuisine": "Kashmiri",
+    "instructions": "Soak kidney beans; pressure cook with turnip chunks and aromatic gravy until creamy.",
+    "prep_minutes": 60,
+    "calories_per_serving": 340,
+    "servings": 6,
+    "ingredients": [
+      {
+        "name": "Kidney beans",
+        "amount": 200,
+        "unit": "g dry"
+      },
+      {
+        "name": "Turnip",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Onion",
+        "amount": 1,
+        "unit": "each"
+      },
+      {
+        "name": "Tomato",
+        "amount": 150,
+        "unit": "g"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "high-protein"
+    ],
+    "health_notes": [
+      "high-fiber",
+      "diabetes-friendly"
+    ]
+  },
+  {
+    "name": "Gaade Tamatar",
+    "cuisine": "Kashmiri",
+    "instructions": "Sear fish; simmer with tomato, ginger, and warm spices for a light red curry.",
+    "prep_minutes": 35,
+    "calories_per_serving": 320,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Fish steaks",
+        "amount": 500,
+        "unit": "g"
+      },
+      {
+        "name": "Tomato",
+        "amount": 250,
+        "unit": "g"
+      },
+      {
+        "name": "Ginger",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Oil",
+        "amount": 3,
+        "unit": "tbsp"
+      }
+    ],
+    "diet_tags": [
+      "high-protein",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ]
+  },
+  {
+    "name": "Veth Tsaman",
+    "cuisine": "Kashmiri",
+    "instructions": "Pan-fry paneer until golden; simmer briefly in reduced yogurt sauce with turmeric and cardamom.",
+    "prep_minutes": 35,
+    "calories_per_serving": 380,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "amount": 350,
+        "unit": "g"
+      },
+      {
+        "name": "Yogurt",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Turmeric",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "Cardamom",
+        "amount": 3,
+        "unit": "pods"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "gluten-free",
+      "high-protein"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ]
+  },
+  {
+    "name": "Kabargah",
+    "cuisine": "Kashmiri",
+    "instructions": "Marinate lamb ribs in yogurt and spices; slow-cook then flash-fry for a crisp edge.",
+    "prep_minutes": 95,
+    "calories_per_serving": 520,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Lamb ribs",
+        "amount": 800,
+        "unit": "g"
+      },
+      {
+        "name": "Yogurt",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Ghee",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Whole spices",
+        "amount": 1,
+        "unit": "tbsp"
+      }
+    ],
+    "diet_tags": [
+      "high-protein",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/TabakMaaz_wazwan.jpg"
+  },
+  {
+    "name": "Kong Phir",
+    "cuisine": "Kashmiri",
+    "instructions": "Braise lotus stem with turnip in light yogurt broth; finish with dried mint.",
+    "prep_minutes": 55,
+    "calories_per_serving": 220,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Lotus stem",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "Turnip",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Yogurt",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "Dried mint",
+        "amount": 1,
+        "unit": "tsp"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "high-fiber"
+    ]
+  },
+  {
+    "name": "Khatte Baingan",
+    "cuisine": "Kashmiri",
+    "instructions": "Fry eggplant rounds; simmer in tangy tamarind-yogurt gravy with fennel notes.",
+    "prep_minutes": 40,
+    "calories_per_serving": 230,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Eggplant",
+        "amount": 450,
+        "unit": "g"
+      },
+      {
+        "name": "Tamarind pulp",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Yogurt",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Fennel powder",
+        "amount": 1,
+        "unit": "tsp"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "high-fiber"
+    ]
+  }
+]

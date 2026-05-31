@@ -1,0 +1,101 @@
+name,cuisine,instructions,prep_minutes,calories_per_serving,servings,ingredients,diet_tags,health_notes
+Kashmiri Plate 01,Kashmiri,Simmer spices yogurt and vegetables for plate 1 until tender.,36,285,4,onion:1:each;yogurt:150:g;oil:2:tbsp;spice mix:2:tbsp,vegetarian|gluten-free,high-fiber
+Kashmiri Plate 02,Kashmiri,Simmer spices yogurt and vegetables for plate 2 until tender.,37,290,4,onion:1:each;yogurt:150:g;oil:2:tbsp;spice mix:3:tbsp,vegetarian|gluten-free,high-fiber
+Kashmiri Plate 03,Kashmiri,Simmer spices yogurt and vegetables for plate 3 until tender.,38,295,4,onion:1:each;yogurt:150:g;oil:2:tbsp;spice mix:1:tbsp,vegetarian|gluten-free,high-fiber
+Kashmiri Plate 04,Kashmiri,Simmer spices yogurt and vegetables for plate 4 until tender.,39,300,4,onion:1:each;yogurt:150:g;oil:2:tbsp;spice mix:2:tbsp,vegetarian|gluten-free,high-fiber
+Kashmiri Plate 05,Kashmiri,Simmer spices yogurt and vegetables for plate 5 until tender.,40,305,4,onion:1:each;yogurt:150:g;oil:2:tbsp;spice mix:3:tbsp,vegetarian|gluten-free,high-fiber
+Kashmiri Plate 06,Kashmiri,Simmer spices yogurt and vegetables for plate 6 until tender.,41,310,4,onion:1:each;yogurt:150:g;oil:2:tbsp;spice mix:1:tbsp,vegetarian|gluten-free,high-fiber
+Kashmiri Plate 07,Kashmiri,Simmer spices yogurt and vegetables for plate 7 until tender.,42,315,4,onion:1:each;yogurt:150:g;oil:2:tbsp;spice mix:2:tbsp,vegetarian|gluten-free,high-fiber
+Kashmiri Plate 08,Kashmiri,Simmer spices yogurt and vegetables for plate 8 until tender.,35,320,4,onion:1:each;yogurt:150:g;oil:2:tbsp;spice mix:3:tbsp,vegetarian|gluten-free,high-fiber
+Kashmiri Plate 09,Kashmiri,Simmer spices yogurt and vegetables for plate 9 until tender.,36,325,4,onion:1:each;yogurt:150:g;oil:2:tbsp;spice mix:1:tbsp,vegetarian|gluten-free,high-fiber
+Kashmiri Plate 10,Kashmiri,Simmer spices yogurt and vegetables for plate 10 until tender.,37,330,4,onion:1:each;yogurt:150:g;oil:2:tbsp;spice mix:2:tbsp,vegetarian|gluten-free,high-fiber
+Kashmiri Plate 11,Kashmiri,Simmer spices yogurt and vegetables for plate 11 until tender.,38,335,4,onion:1:each;yogurt:150:g;oil:2:tbsp;spice mix:3:tbsp,vegetarian|gluten-free,high-fiber
+Kashmiri Plate 12,Kashmiri,Simmer spices yogurt and vegetables for plate 12 until tender.,39,340,4,onion:1:each;yogurt:150:g;oil:2:tbsp;spice mix:1:tbsp,vegetarian|gluten-free,high-fiber
+Kashmiri Plate 13,Kashmiri,Simmer spices yogurt and vegetables for plate 13 until tender.,40,345,4,onion:1:each;yogurt:150:g;oil:2:tbsp;spice mix:2:tbsp,vegetarian|gluten-free,high-fiber
+Kashmiri Plate 14,Kashmiri,Simmer spices yogurt and vegetables for plate 14 until tender.,41,350,4,onion:1:each;yogurt:150:g;oil:2:tbsp;spice mix:3:tbsp,vegetarian|gluten-free,high-fiber
+Kashmiri Plate 15,Kashmiri,Simmer spices yogurt and vegetables for plate 15 until tender.,42,355,4,onion:1:each;yogurt:150:g;oil:2:tbsp;spice mix:1:tbsp,vegetarian|gluten-free,high-fiber
+Kashmiri Plate 16,Kashmiri,Simmer spices yogurt and vegetables for plate 16 until tender.,35,360,4,onion:1:each;yogurt:150:g;oil:2:tbsp;spice mix:2:tbsp,vegetarian|gluten-free,high-fiber
+Kashmiri Plate 17,Kashmiri,Simmer spices yogurt and vegetables for plate 17 until tender.,36,365,4,onion:1:each;yogurt:150:g;oil:2:tbsp;spice mix:3:tbsp,vegetarian|gluten-free,high-fiber
+Kashmiri Plate 18,Kashmiri,Simmer spices yogurt and vegetables for plate 18 until tender.,37,370,4,onion:1:each;yogurt:150:g;oil:2:tbsp;spice mix:1:tbsp,vegetarian|gluten-free,high-fiber
+Kashmiri Plate 19,Kashmiri,Simmer spices yogurt and vegetables for plate 19 until tender.,38,375,4,onion:1:each;yogurt:150:g;oil:2:tbsp;spice mix:2:tbsp,vegetarian|gluten-free,high-fiber
+Kashmiri Plate 20,Kashmiri,Simmer spices yogurt and vegetables for plate 20 until tender.,39,380,4,onion:1:each;yogurt:150:g;oil:2:tbsp;spice mix:3:tbsp,vegetarian|gluten-free,high-fiber
+Indian Curry Bowl 01,Indian,Toast spices add tomatoes and protein for bowl 1. Simmer until saucy.,31,327,4,tomato:250:g;onion:1:each;garlic:4:cloves;rice:200:g,vegetarian|gluten-free,diabetes-friendly
+Indian Curry Bowl 02,Indian,Toast spices add tomatoes and protein for bowl 2. Simmer until saucy.,32,334,4,tomato:250:g;onion:1:each;garlic:5:cloves;rice:200:g,vegetarian|gluten-free,diabetes-friendly
+Indian Curry Bowl 03,Indian,Toast spices add tomatoes and protein for bowl 3. Simmer until saucy.,33,341,4,tomato:250:g;onion:1:each;garlic:6:cloves;rice:200:g,vegetarian|gluten-free,diabetes-friendly
+Indian Curry Bowl 04,Indian,Toast spices add tomatoes and protein for bowl 4. Simmer until saucy.,34,348,4,tomato:250:g;onion:1:each;garlic:3:cloves;rice:200:g,vegetarian|gluten-free,diabetes-friendly
+Indian Curry Bowl 05,Indian,Toast spices add tomatoes and protein for bowl 5. Simmer until saucy.,35,355,4,tomato:250:g;onion:1:each;garlic:4:cloves;rice:200:g,vegetarian|gluten-free,diabetes-friendly
+Indian Curry Bowl 06,Indian,Toast spices add tomatoes and protein for bowl 6. Simmer until saucy.,36,362,4,tomato:250:g;onion:1:each;garlic:5:cloves;rice:200:g,vegetarian|gluten-free,diabetes-friendly
+Indian Curry Bowl 07,Indian,Toast spices add tomatoes and protein for bowl 7. Simmer until saucy.,37,369,4,tomato:250:g;onion:1:each;garlic:6:cloves;rice:200:g,vegetarian|gluten-free,diabetes-friendly
+Indian Curry Bowl 08,Indian,Toast spices add tomatoes and protein for bowl 8. Simmer until saucy.,38,376,4,tomato:250:g;onion:1:each;garlic:3:cloves;rice:200:g,vegetarian|gluten-free,diabetes-friendly
+Indian Curry Bowl 09,Indian,Toast spices add tomatoes and protein for bowl 9. Simmer until saucy.,39,383,4,tomato:250:g;onion:1:each;garlic:4:cloves;rice:200:g,vegetarian|gluten-free,diabetes-friendly
+Indian Curry Bowl 10,Indian,Toast spices add tomatoes and protein for bowl 10. Simmer until saucy.,30,390,4,tomato:250:g;onion:1:each;garlic:5:cloves;rice:200:g,vegetarian|gluten-free,diabetes-friendly
+Indian Curry Bowl 11,Indian,Toast spices add tomatoes and protein for bowl 11. Simmer until saucy.,31,397,4,tomato:250:g;onion:1:each;garlic:6:cloves;rice:200:g,vegetarian|gluten-free,diabetes-friendly
+Indian Curry Bowl 12,Indian,Toast spices add tomatoes and protein for bowl 12. Simmer until saucy.,32,404,4,tomato:250:g;onion:1:each;garlic:3:cloves;rice:200:g,vegetarian|gluten-free,diabetes-friendly
+Indian Curry Bowl 13,Indian,Toast spices add tomatoes and protein for bowl 13. Simmer until saucy.,33,411,4,tomato:250:g;onion:1:each;garlic:4:cloves;rice:200:g,vegetarian|gluten-free,diabetes-friendly
+Indian Curry Bowl 14,Indian,Toast spices add tomatoes and protein for bowl 14. Simmer until saucy.,34,418,4,tomato:250:g;onion:1:each;garlic:5:cloves;rice:200:g,vegetarian|gluten-free,diabetes-friendly
+Indian Curry Bowl 15,Indian,Toast spices add tomatoes and protein for bowl 15. Simmer until saucy.,35,425,4,tomato:250:g;onion:1:each;garlic:6:cloves;rice:200:g,vegetarian|gluten-free,diabetes-friendly
+Indian Curry Bowl 16,Indian,Toast spices add tomatoes and protein for bowl 16. Simmer until saucy.,36,432,4,tomato:250:g;onion:1:each;garlic:3:cloves;rice:200:g,vegetarian|gluten-free,diabetes-friendly
+Indian Curry Bowl 17,Indian,Toast spices add tomatoes and protein for bowl 17. Simmer until saucy.,37,439,4,tomato:250:g;onion:1:each;garlic:4:cloves;rice:200:g,vegetarian|gluten-free,diabetes-friendly
+Indian Curry Bowl 18,Indian,Toast spices add tomatoes and protein for bowl 18. Simmer until saucy.,38,446,4,tomato:250:g;onion:1:each;garlic:5:cloves;rice:200:g,vegetarian|gluten-free,diabetes-friendly
+Indian Curry Bowl 19,Indian,Toast spices add tomatoes and protein for bowl 19. Simmer until saucy.,39,453,4,tomato:250:g;onion:1:each;garlic:6:cloves;rice:200:g,vegetarian|gluten-free,diabetes-friendly
+Indian Curry Bowl 20,Indian,Toast spices add tomatoes and protein for bowl 20. Simmer until saucy.,30,460,4,tomato:250:g;onion:1:each;garlic:3:cloves;rice:200:g,vegetarian|gluten-free,diabetes-friendly
+Italian Supper 01,Italian,Cook pasta or risotto base 1 with olive oil herbs and cheese.,23,383,4,pasta:280:g;olive oil:2:tbsp;cheese:60:g;herbs:11:g,vegetarian,heart-healthy
+Italian Supper 02,Italian,Cook pasta or risotto base 2 with olive oil herbs and cheese.,24,386,4,pasta:280:g;olive oil:2:tbsp;cheese:60:g;herbs:12:g,vegetarian,heart-healthy
+Italian Supper 03,Italian,Cook pasta or risotto base 3 with olive oil herbs and cheese.,25,389,4,pasta:280:g;olive oil:2:tbsp;cheese:60:g;herbs:13:g,vegetarian,heart-healthy
+Italian Supper 04,Italian,Cook pasta or risotto base 4 with olive oil herbs and cheese.,26,392,4,pasta:280:g;olive oil:2:tbsp;cheese:60:g;herbs:14:g,vegetarian,heart-healthy
+Italian Supper 05,Italian,Cook pasta or risotto base 5 with olive oil herbs and cheese.,27,395,4,pasta:280:g;olive oil:2:tbsp;cheese:60:g;herbs:15:g,vegetarian,heart-healthy
+Italian Supper 06,Italian,Cook pasta or risotto base 6 with olive oil herbs and cheese.,28,398,4,pasta:280:g;olive oil:2:tbsp;cheese:60:g;herbs:16:g,vegetarian,heart-healthy
+Italian Supper 07,Italian,Cook pasta or risotto base 7 with olive oil herbs and cheese.,29,401,4,pasta:280:g;olive oil:2:tbsp;cheese:60:g;herbs:17:g,vegetarian,heart-healthy
+Italian Supper 08,Italian,Cook pasta or risotto base 8 with olive oil herbs and cheese.,30,404,4,pasta:280:g;olive oil:2:tbsp;cheese:60:g;herbs:18:g,vegetarian,heart-healthy
+Italian Supper 09,Italian,Cook pasta or risotto base 9 with olive oil herbs and cheese.,31,407,4,pasta:280:g;olive oil:2:tbsp;cheese:60:g;herbs:19:g,vegetarian,heart-healthy
+Italian Supper 10,Italian,Cook pasta or risotto base 10 with olive oil herbs and cheese.,32,410,4,pasta:280:g;olive oil:2:tbsp;cheese:60:g;herbs:20:g,vegetarian,heart-healthy
+Italian Supper 11,Italian,Cook pasta or risotto base 11 with olive oil herbs and cheese.,33,413,4,pasta:280:g;olive oil:2:tbsp;cheese:60:g;herbs:21:g,vegetarian,heart-healthy
+Italian Supper 12,Italian,Cook pasta or risotto base 12 with olive oil herbs and cheese.,22,416,4,pasta:280:g;olive oil:2:tbsp;cheese:60:g;herbs:22:g,vegetarian,heart-healthy
+Italian Supper 13,Italian,Cook pasta or risotto base 13 with olive oil herbs and cheese.,23,419,4,pasta:280:g;olive oil:2:tbsp;cheese:60:g;herbs:23:g,vegetarian,heart-healthy
+Italian Supper 14,Italian,Cook pasta or risotto base 14 with olive oil herbs and cheese.,24,422,4,pasta:280:g;olive oil:2:tbsp;cheese:60:g;herbs:24:g,vegetarian,heart-healthy
+Italian Supper 15,Italian,Cook pasta or risotto base 15 with olive oil herbs and cheese.,25,425,4,pasta:280:g;olive oil:2:tbsp;cheese:60:g;herbs:25:g,vegetarian,heart-healthy
+Italian Supper 16,Italian,Cook pasta or risotto base 16 with olive oil herbs and cheese.,26,428,4,pasta:280:g;olive oil:2:tbsp;cheese:60:g;herbs:26:g,vegetarian,heart-healthy
+Italian Supper 17,Italian,Cook pasta or risotto base 17 with olive oil herbs and cheese.,27,431,4,pasta:280:g;olive oil:2:tbsp;cheese:60:g;herbs:27:g,vegetarian,heart-healthy
+Italian Supper 18,Italian,Cook pasta or risotto base 18 with olive oil herbs and cheese.,28,434,4,pasta:280:g;olive oil:2:tbsp;cheese:60:g;herbs:28:g,vegetarian,heart-healthy
+Italian Supper 19,Italian,Cook pasta or risotto base 19 with olive oil herbs and cheese.,29,437,4,pasta:280:g;olive oil:2:tbsp;cheese:60:g;herbs:29:g,vegetarian,heart-healthy
+Italian Supper 20,Italian,Cook pasta or risotto base 20 with olive oil herbs and cheese.,30,440,4,pasta:280:g;olive oil:2:tbsp;cheese:60:g;herbs:10:g,vegetarian,heart-healthy
+Chinese Wok 01,Chinese,High heat stir-fry wok 1 with soy aromatics and vegetables.,19,304,4,soy sauce:2:tbsp;ginger:1:tbsp;vegetables:350:g;oil:2:tbsp,vegetarian|vegan,high-fiber
+Chinese Wok 02,Chinese,High heat stir-fry wok 2 with soy aromatics and vegetables.,20,308,4,soy sauce:2:tbsp;ginger:1:tbsp;vegetables:350:g;oil:2:tbsp,vegetarian|vegan,high-fiber
+Chinese Wok 03,Chinese,High heat stir-fry wok 3 with soy aromatics and vegetables.,21,312,4,soy sauce:2:tbsp;ginger:1:tbsp;vegetables:350:g;oil:2:tbsp,vegetarian|vegan,high-fiber
+Chinese Wok 04,Chinese,High heat stir-fry wok 4 with soy aromatics and vegetables.,22,316,4,soy sauce:2:tbsp;ginger:1:tbsp;vegetables:350:g;oil:2:tbsp,vegetarian|vegan,high-fiber
+Chinese Wok 05,Chinese,High heat stir-fry wok 5 with soy aromatics and vegetables.,23,320,4,soy sauce:2:tbsp;ginger:1:tbsp;vegetables:350:g;oil:2:tbsp,vegetarian|vegan,high-fiber
+Chinese Wok 06,Chinese,High heat stir-fry wok 6 with soy aromatics and vegetables.,24,324,4,soy sauce:2:tbsp;ginger:1:tbsp;vegetables:350:g;oil:2:tbsp,vegetarian|vegan,high-fiber
+Chinese Wok 07,Chinese,High heat stir-fry wok 7 with soy aromatics and vegetables.,25,328,4,soy sauce:2:tbsp;ginger:1:tbsp;vegetables:350:g;oil:2:tbsp,vegetarian|vegan,high-fiber
+Chinese Wok 08,Chinese,High heat stir-fry wok 8 with soy aromatics and vegetables.,18,332,4,soy sauce:2:tbsp;ginger:1:tbsp;vegetables:350:g;oil:2:tbsp,vegetarian|vegan,high-fiber
+Chinese Wok 09,Chinese,High heat stir-fry wok 9 with soy aromatics and vegetables.,19,336,4,soy sauce:2:tbsp;ginger:1:tbsp;vegetables:350:g;oil:2:tbsp,vegetarian|vegan,high-fiber
+Chinese Wok 10,Chinese,High heat stir-fry wok 10 with soy aromatics and vegetables.,20,340,4,soy sauce:2:tbsp;ginger:1:tbsp;vegetables:350:g;oil:2:tbsp,vegetarian|vegan,high-fiber
+Chinese Wok 11,Chinese,High heat stir-fry wok 11 with soy aromatics and vegetables.,21,344,4,soy sauce:2:tbsp;ginger:1:tbsp;vegetables:350:g;oil:2:tbsp,vegetarian|vegan,high-fiber
+Chinese Wok 12,Chinese,High heat stir-fry wok 12 with soy aromatics and vegetables.,22,348,4,soy sauce:2:tbsp;ginger:1:tbsp;vegetables:350:g;oil:2:tbsp,vegetarian|vegan,high-fiber
+Chinese Wok 13,Chinese,High heat stir-fry wok 13 with soy aromatics and vegetables.,23,352,4,soy sauce:2:tbsp;ginger:1:tbsp;vegetables:350:g;oil:2:tbsp,vegetarian|vegan,high-fiber
+Chinese Wok 14,Chinese,High heat stir-fry wok 14 with soy aromatics and vegetables.,24,356,4,soy sauce:2:tbsp;ginger:1:tbsp;vegetables:350:g;oil:2:tbsp,vegetarian|vegan,high-fiber
+Chinese Wok 15,Chinese,High heat stir-fry wok 15 with soy aromatics and vegetables.,25,360,4,soy sauce:2:tbsp;ginger:1:tbsp;vegetables:350:g;oil:2:tbsp,vegetarian|vegan,high-fiber
+Chinese Wok 16,Chinese,High heat stir-fry wok 16 with soy aromatics and vegetables.,18,364,4,soy sauce:2:tbsp;ginger:1:tbsp;vegetables:350:g;oil:2:tbsp,vegetarian|vegan,high-fiber
+Chinese Wok 17,Chinese,High heat stir-fry wok 17 with soy aromatics and vegetables.,19,368,4,soy sauce:2:tbsp;ginger:1:tbsp;vegetables:350:g;oil:2:tbsp,vegetarian|vegan,high-fiber
+Chinese Wok 18,Chinese,High heat stir-fry wok 18 with soy aromatics and vegetables.,20,372,4,soy sauce:2:tbsp;ginger:1:tbsp;vegetables:350:g;oil:2:tbsp,vegetarian|vegan,high-fiber
+Chinese Wok 19,Chinese,High heat stir-fry wok 19 with soy aromatics and vegetables.,21,376,4,soy sauce:2:tbsp;ginger:1:tbsp;vegetables:350:g;oil:2:tbsp,vegetarian|vegan,high-fiber
+Chinese Wok 20,Chinese,High heat stir-fry wok 20 with soy aromatics and vegetables.,22,380,4,soy sauce:2:tbsp;ginger:1:tbsp;vegetables:350:g;oil:2:tbsp,vegetarian|vegan,high-fiber
+Middle Eastern Mezze 01,Middle Eastern,Prepare mezze 1 with legumes herbs lemon and olive oil.,21,266,4,chickpeas:200:g;tahini:2:tbsp;lemon:1:each;parsley:16:g,vegetarian|vegan|gluten-free,heart-healthy
+Middle Eastern Mezze 02,Middle Eastern,Prepare mezze 2 with legumes herbs lemon and olive oil.,22,272,4,chickpeas:200:g;tahini:2:tbsp;lemon:1:each;parsley:17:g,vegetarian|vegan|gluten-free,heart-healthy
+Middle Eastern Mezze 03,Middle Eastern,Prepare mezze 3 with legumes herbs lemon and olive oil.,23,278,4,chickpeas:200:g;tahini:2:tbsp;lemon:1:each;parsley:18:g,vegetarian|vegan|gluten-free,heart-healthy
+Middle Eastern Mezze 04,Middle Eastern,Prepare mezze 4 with legumes herbs lemon and olive oil.,24,284,4,chickpeas:200:g;tahini:2:tbsp;lemon:1:each;parsley:19:g,vegetarian|vegan|gluten-free,heart-healthy
+Middle Eastern Mezze 05,Middle Eastern,Prepare mezze 5 with legumes herbs lemon and olive oil.,25,290,4,chickpeas:200:g;tahini:2:tbsp;lemon:1:each;parsley:20:g,vegetarian|vegan|gluten-free,heart-healthy
+Middle Eastern Mezze 06,Middle Eastern,Prepare mezze 6 with legumes herbs lemon and olive oil.,26,296,4,chickpeas:200:g;tahini:2:tbsp;lemon:1:each;parsley:21:g,vegetarian|vegan|gluten-free,heart-healthy
+Middle Eastern Mezze 07,Middle Eastern,Prepare mezze 7 with legumes herbs lemon and olive oil.,27,302,4,chickpeas:200:g;tahini:2:tbsp;lemon:1:each;parsley:22:g,vegetarian|vegan|gluten-free,heart-healthy
+Middle Eastern Mezze 08,Middle Eastern,Prepare mezze 8 with legumes herbs lemon and olive oil.,28,308,4,chickpeas:200:g;tahini:2:tbsp;lemon:1:each;parsley:23:g,vegetarian|vegan|gluten-free,heart-healthy
+Middle Eastern Mezze 09,Middle Eastern,Prepare mezze 9 with legumes herbs lemon and olive oil.,29,314,4,chickpeas:200:g;tahini:2:tbsp;lemon:1:each;parsley:24:g,vegetarian|vegan|gluten-free,heart-healthy
+Middle Eastern Mezze 10,Middle Eastern,Prepare mezze 10 with legumes herbs lemon and olive oil.,30,320,4,chickpeas:200:g;tahini:2:tbsp;lemon:1:each;parsley:25:g,vegetarian|vegan|gluten-free,heart-healthy
+Middle Eastern Mezze 11,Middle Eastern,Prepare mezze 11 with legumes herbs lemon and olive oil.,31,326,4,chickpeas:200:g;tahini:2:tbsp;lemon:1:each;parsley:26:g,vegetarian|vegan|gluten-free,heart-healthy
+Middle Eastern Mezze 12,Middle Eastern,Prepare mezze 12 with legumes herbs lemon and olive oil.,32,332,4,chickpeas:200:g;tahini:2:tbsp;lemon:1:each;parsley:27:g,vegetarian|vegan|gluten-free,heart-healthy
+Middle Eastern Mezze 13,Middle Eastern,Prepare mezze 13 with legumes herbs lemon and olive oil.,33,338,4,chickpeas:200:g;tahini:2:tbsp;lemon:1:each;parsley:28:g,vegetarian|vegan|gluten-free,heart-healthy
+Middle Eastern Mezze 14,Middle Eastern,Prepare mezze 14 with legumes herbs lemon and olive oil.,34,344,4,chickpeas:200:g;tahini:2:tbsp;lemon:1:each;parsley:29:g,vegetarian|vegan|gluten-free,heart-healthy
+Middle Eastern Mezze 15,Middle Eastern,Prepare mezze 15 with legumes herbs lemon and olive oil.,20,350,4,chickpeas:200:g;tahini:2:tbsp;lemon:1:each;parsley:15:g,vegetarian|vegan|gluten-free,heart-healthy
+Middle Eastern Mezze 16,Middle Eastern,Prepare mezze 16 with legumes herbs lemon and olive oil.,21,356,4,chickpeas:200:g;tahini:2:tbsp;lemon:1:each;parsley:16:g,vegetarian|vegan|gluten-free,heart-healthy
+Middle Eastern Mezze 17,Middle Eastern,Prepare mezze 17 with legumes herbs lemon and olive oil.,22,362,4,chickpeas:200:g;tahini:2:tbsp;lemon:1:each;parsley:17:g,vegetarian|vegan|gluten-free,heart-healthy
+Middle Eastern Mezze 18,Middle Eastern,Prepare mezze 18 with legumes herbs lemon and olive oil.,23,368,4,chickpeas:200:g;tahini:2:tbsp;lemon:1:each;parsley:18:g,vegetarian|vegan|gluten-free,heart-healthy
+Middle Eastern Mezze 19,Middle Eastern,Prepare mezze 19 with legumes herbs lemon and olive oil.,24,264,4,chickpeas:200:g;tahini:2:tbsp;lemon:1:each;parsley:19:g,vegetarian|vegan|gluten-free,heart-healthy
+Middle Eastern Mezze 20,Middle Eastern,Prepare mezze 20 with legumes herbs lemon and olive oil.,25,270,4,chickpeas:200:g;tahini:2:tbsp;lemon:1:each;parsley:20:g,vegetarian|vegan|gluten-free,heart-healthy

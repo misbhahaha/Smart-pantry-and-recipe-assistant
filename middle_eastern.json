@@ -1,0 +1,392 @@
+[
+  {
+    "name": "Falafel",
+    "cuisine": "Middle Eastern",
+    "instructions": "Blend chickpeas herbs fry crisp serve with tahini sauce.",
+    "prep_minutes": 40,
+    "calories_per_serving": 360,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Chickpeas",
+        "amount": 400,
+        "unit": "g"
+      },
+      {
+        "name": "Parsley",
+        "amount": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "Tahini",
+        "amount": 3,
+        "unit": "tbsp"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "high-fiber"
+    ]
+  },
+  {
+    "name": "Hummus",
+    "cuisine": "Middle Eastern",
+    "instructions": "Chickpea tahini lemon garlic puree drizzled with olive oil.",
+    "prep_minutes": 15,
+    "calories_per_serving": 260,
+    "servings": 6,
+    "ingredients": [
+      {
+        "name": "Chickpeas",
+        "amount": 400,
+        "unit": "g"
+      },
+      {
+        "name": "Tahini",
+        "amount": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Lemon",
+        "amount": 1,
+        "unit": "each"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ]
+  },
+  {
+    "name": "Shawarma Plate",
+    "cuisine": "Middle Eastern",
+    "instructions": "Marinated chicken spices vertical roast slice over rice.",
+    "prep_minutes": 55,
+    "calories_per_serving": 540,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Chicken thighs",
+        "amount": 700,
+        "unit": "g"
+      },
+      {
+        "name": "Rice",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "Spice mix",
+        "amount": 2,
+        "unit": "tbsp"
+      }
+    ],
+    "diet_tags": [
+      "high-protein"
+    ],
+    "health_notes": [
+      "diabetes-friendly"
+    ]
+  },
+  {
+    "name": "Kibbeh",
+    "cuisine": "Middle Eastern",
+    "instructions": "Bulgur shell stuffed with spiced mince bake or fry.",
+    "prep_minutes": 60,
+    "calories_per_serving": 420,
+    "servings": 6,
+    "ingredients": [
+      {
+        "name": "Bulgur",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Beef mince",
+        "amount": 350,
+        "unit": "g"
+      },
+      {
+        "name": "Pine nuts",
+        "amount": 40,
+        "unit": "g"
+      }
+    ],
+    "diet_tags": [
+      "high-protein"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ]
+  },
+  {
+    "name": "Fattoush",
+    "cuisine": "Middle Eastern",
+    "instructions": "Chopped salad with toasted pita sumac and lemon.",
+    "prep_minutes": 20,
+    "calories_per_serving": 220,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Lettuce",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Tomato",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Pita",
+        "amount": 1,
+        "unit": "each"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "health_notes": [
+      "high-fiber"
+    ]
+  },
+  {
+    "name": "Mujadara",
+    "cuisine": "Middle Eastern",
+    "instructions": "Lentils rice caramelized onions comfort bowl.",
+    "prep_minutes": 45,
+    "calories_per_serving": 340,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Brown lentils",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Rice",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Onion",
+        "amount": 3,
+        "unit": "large"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "high-fiber"
+    ]
+  },
+  {
+    "name": "Baba Ganoush",
+    "cuisine": "Middle Eastern",
+    "instructions": "Smoky eggplant dip with tahini lemon.",
+    "prep_minutes": 30,
+    "calories_per_serving": 200,
+    "servings": 6,
+    "ingredients": [
+      {
+        "name": "Eggplant",
+        "amount": 800,
+        "unit": "g"
+      },
+      {
+        "name": "Tahini",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Garlic",
+        "amount": 2,
+        "unit": "cloves"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ],
+    "image_url": "https://www.themealdb.com/images/media/meals/dlmh401760524897.jpg"
+  },
+  {
+    "name": "Manakish Zaatar",
+    "cuisine": "Middle Eastern",
+    "instructions": "Flatbread with zaatar oil bake until fragrant.",
+    "prep_minutes": 25,
+    "calories_per_serving": 280,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Flatbread dough",
+        "amount": 400,
+        "unit": "g"
+      },
+      {
+        "name": "Zaatar",
+        "amount": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Olive oil",
+        "amount": 3,
+        "unit": "tbsp"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Manakish_with_za%27atar.jpg/960px-Manakish_with_za%27atar.jpg"
+  },
+  {
+    "name": "Shakshuka",
+    "cuisine": "Middle Eastern",
+    "instructions": "Eggs poached in spiced tomato pepper skillet.",
+    "prep_minutes": 30,
+    "calories_per_serving": 320,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Eggs",
+        "amount": 6,
+        "unit": "each"
+      },
+      {
+        "name": "Tomato",
+        "amount": 400,
+        "unit": "g"
+      },
+      {
+        "name": "Bell pepper",
+        "amount": 1,
+        "unit": "each"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "high-protein"
+    ]
+  },
+  {
+    "name": "Grilled Kofta",
+    "cuisine": "Middle Eastern",
+    "instructions": "Spiced minced lamb skewers with parsley onion.",
+    "prep_minutes": 35,
+    "calories_per_serving": 480,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Lamb mince",
+        "amount": 600,
+        "unit": "g"
+      },
+      {
+        "name": "Parsley",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "Onion",
+        "amount": 1,
+        "unit": "each"
+      }
+    ],
+    "diet_tags": [
+      "high-protein",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ],
+    "image_url": "https://www.themealdb.com/images/media/meals/1524441813.jpg"
+  },
+  {
+    "name": "Tabbouleh",
+    "cuisine": "Middle Eastern",
+    "instructions": "Parsley bulgur tomato mint lemon salad.",
+    "prep_minutes": 25,
+    "calories_per_serving": 210,
+    "servings": 6,
+    "ingredients": [
+      {
+        "name": "Parsley",
+        "amount": 2,
+        "unit": "cups"
+      },
+      {
+        "name": "Bulgur",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "Tomato",
+        "amount": 200,
+        "unit": "g"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "health_notes": [
+      "high-fiber"
+    ]
+  },
+  {
+    "name": "Harira Soup",
+    "cuisine": "Middle Eastern",
+    "instructions": "Tomato lentil chickpea soup with warm spices.",
+    "prep_minutes": 50,
+    "calories_per_serving": 300,
+    "servings": 6,
+    "ingredients": [
+      {
+        "name": "Red lentils",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "Chickpeas",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Tomato",
+        "amount": 300,
+        "unit": "g"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "high-fiber"
+    ]
+  }
+]

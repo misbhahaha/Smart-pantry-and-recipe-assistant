@@ -1,0 +1,22 @@
+# Render Blueprint — API only. UI: Streamlit Community Cloud (frontend/streamlit/Home.py).
+services:
+  - type: web
+    name: smart-pantry-api
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements-render.txt
+    startCommand: bash scripts/render_start.sh
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+      # Lighter startup on free tier (full seed + image backfill can block SQLite for minutes).
+      - key: AUTO_DISH_IMAGE_BACKFILL
+        value: "0"
+      - key: AUTO_THEMEALDB_IMAGE_SEARCH
+        value: "0"
+      - key: AUTO_THEMEALDB_ENRICH
+        value: "0"
+      - key: AUTO_KASHMIRI_THEMEALDB
+        value: "0"
+      - key: SMART_PANTRY_BLOCKING_SEED
+        value: "0"

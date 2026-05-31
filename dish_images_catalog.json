@@ -1,0 +1,39 @@
+{
+  "source": "Smart Pantry catalog \u2194 TheMealDB",
+  "version": 1,
+  "by_name": {
+    "poha breakfast": "https://www.themealdb.com/images/media/meals/naqyel1608588563.jpg",
+    "tandoori chicken": "https://www.themealdb.com/images/media/meals/arzs741766434335.jpg",
+    "spaghetti carbonara": "https://www.themealdb.com/images/media/meals/llcbn01574260722.jpg",
+    "ossobuco milanese": "https://www.themealdb.com/images/media/meals/wwuqvt1487345467.jpg",
+    "ribollita": "https://www.themealdb.com/images/media/meals/xrrwpx1487347049.jpg",
+    "kung pao chicken": "https://www.themealdb.com/images/media/meals/1525872624.jpg",
+    "mapo tofu": "https://www.themealdb.com/images/media/meals/1525874812.jpg",
+    "hot and sour soup": "https://www.themealdb.com/images/media/meals/1529445893.jpg",
+    "egg fried rice": "https://www.themealdb.com/images/media/meals/wuyd2h1765655837.jpg",
+    "falafel": "https://www.themealdb.com/images/media/meals/u5e9qq1763795441.jpg",
+    "hummus": "https://www.themealdb.com/images/media/meals/gpon5u1763801180.jpg"
+  },
+  "by_cuisine": {
+    "Kashmiri": {},
+    "Indian": {
+      "poha breakfast": "https://www.themealdb.com/images/media/meals/naqyel1608588563.jpg",
+      "tandoori chicken": "https://www.themealdb.com/images/media/meals/arzs741766434335.jpg"
+    },
+    "Italian": {
+      "spaghetti carbonara": "https://www.themealdb.com/images/media/meals/llcbn01574260722.jpg",
+      "ossobuco milanese": "https://www.themealdb.com/images/media/meals/wwuqvt1487345467.jpg",
+      "ribollita": "https://www.themealdb.com/images/media/meals/xrrwpx1487347049.jpg"
+    },
+    "Chinese": {
+      "kung pao chicken": "https://www.themealdb.com/images/media/meals/1525872624.jpg",
+      "mapo tofu": "https://www.themealdb.com/images/media/meals/1525874812.jpg",
+      "hot and sour soup": "https://www.themealdb.com/images/media/meals/1529445893.jpg",
+      "egg fried rice": "https://www.themealdb.com/images/media/meals/wuyd2h1765655837.jpg"
+    },
+    "Middle Eastern": {
+      "falafel": "https://www.themealdb.com/images/media/meals/u5e9qq1763795441.jpg",
+      "hummus": "https://www.themealdb.com/images/media/meals/gpon5u1763801180.jpg"
+    }
+  }
+}

@@ -1,0 +1,1202 @@
+{
+  "source": "Smart Pantry strict title match (TheMealDB)",
+  "version": 1,
+  "by_exact": {
+    "chinese::vegetable stir-fry": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Vegetable_stir-fry.jpg/960px-Vegetable_stir-fry.jpg",
+    "indian::chana masala": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Chana_Masala_Fry.jpg/960px-Chana_Masala_Fry.jpg",
+    "indian::chicken tikka wrap": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Chicken_Tikka_1.jpg/960px-Chicken_Tikka_1.jpg",
+    "japanese::miso soup": "https://upload.wikimedia.org/wikipedia/commons/0/00/Miso_Soup.jpg",
+    "italian::pasta aglio e olio": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Aglio_e_Olio.jpg/960px-Aglio_e_Olio.jpg",
+    "middle eastern::lentil soup": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Lentil_soup_done.jpg/960px-Lentil_soup_done.jpg",
+    "american::berry smoothie": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Berry_smoothie_and_coffee_at_Antell_Martintalo.jpg/960px-Berry_smoothie_and_coffee_at_Antell_Martintalo.jpg",
+    "italian::budino di ricotta": "https://www.themealdb.com/images/media/meals/1549542877.jpg",
+    "italian::chicken alfredo primavera": "https://www.themealdb.com/images/media/meals/syqypv1486981727.jpg",
+    "italian::chilli prawn linguine": "https://www.themealdb.com/images/media/meals/usywpp1511189717.jpg",
+    "italian::fettuccine alfredo": "https://www.themealdb.com/images/media/meals/0jv5gx1661040802.jpg",
+    "italian::fettucine alfredo": "https://www.themealdb.com/images/media/meals/uquqtu1511178042.jpg",
+    "italian::lasagne": "https://www.themealdb.com/images/media/meals/wtsvxx1511296896.jpg",
+    "italian::mediterranean pasta salad": "https://www.themealdb.com/images/media/meals/wvqpwt1468339226.jpg",
+    "italian::osso buco alla milanese": "https://www.themealdb.com/images/media/meals/wwuqvt1487345467.jpg",
+    "kashmiri::rogan josh": "https://www.themealdb.com/images/media/meals/vvstvq1487342592.jpg",
+    "kashmiri::yakhni pulao": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Chicken_Yakhni_Pulao.jpg/960px-Chicken_Yakhni_Pulao.jpg",
+    "kashmiri::haak": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Alar_Haak_2008.jpg",
+    "kashmiri::gushtaba": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Gushtaba..JPG/960px-Gushtaba..JPG",
+    "kashmiri::kaliya": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Emma_Kaliya_Videoframe_138077.png/960px-Emma_Kaliya_Videoframe_138077.png",
+    "kashmiri::noon chai": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dry_fuit_vendor_drinks_noon_chai.jpg/960px-Dry_fuit_vendor_drinks_noon_chai.jpg",
+    "indian::dal makhani": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Dal_Makhani..JPG/960px-Dal_Makhani..JPG",
+    "indian::butter chicken": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Butter_Chicken%2C_City_Grill_Kottayam.jpg/960px-Butter_Chicken%2C_City_Grill_Kottayam.jpg",
+    "indian::masala dosa": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Masala_dosa_01.jpg/960px-Masala_dosa_01.jpg",
+    "indian::sambar": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+    "indian::aloo gobi": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Aloo_gobi.jpg/960px-Aloo_gobi.jpg",
+    "indian::kerala fish curry": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Fish_Curry_Kerala.jpg/960px-Fish_Curry_Kerala.jpg",
+    "indian::poha breakfast": "https://www.themealdb.com/images/media/meals/naqyel1608588563.jpg",
+    "italian::spaghetti carbonara": "https://www.themealdb.com/images/media/meals/llcbn01574260722.jpg",
+    "italian::risotto ai funghi": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Risotto_ai_funghi_porcini.JPG/960px-Risotto_ai_funghi_porcini.JPG",
+    "italian::ossobuco milanese": "https://www.themealdb.com/images/media/meals/wwuqvt1487345467.jpg",
+    "italian::margherita pizza": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Margherita_pizza_on_plate.jpg/960px-Margherita_pizza_on_plate.jpg",
+    "italian::minestrone": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Minestrone_soup.jpg/960px-Minestrone_soup.jpg",
+    "italian::saltimbocca alla romana": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Saltimbocca_alla_Romana.jpg/960px-Saltimbocca_alla_Romana.jpg",
+    "italian::cacio e pepe": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Cacio_e_pepe.jpg/960px-Cacio_e_pepe.jpg",
+    "italian::eggplant parmigiana": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Eggplant_parmigiana.jpg/960px-Eggplant_parmigiana.jpg",
+    "italian::panna cotta": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Panna_cotta_2_%28fcm%29.JPG/960px-Panna_cotta_2_%28fcm%29.JPG",
+    "italian::arancini": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Arancini_002.jpg/960px-Arancini_002.jpg",
+    "italian::ribollita": "https://www.themealdb.com/images/media/meals/xrrwpx1487347049.jpg",
+    "chinese::kung pao chicken": "https://www.themealdb.com/images/media/meals/1525872624.jpg",
+    "chinese::mapo tofu": "https://www.themealdb.com/images/media/meals/1525874812.jpg",
+    "chinese::char siu pork": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Char_siu_pork_on_green_peas_and_dinosaur_pasta%2C_with_antipasto%2C_soy_sauce%2C_and_olive_oil_-_Massachusetts.jpg/960px-Char_siu_pork_on_green_peas_and_dinosaur_pasta%2C_with_antipasto%2C_soy_sauce%2C_and_olive_oil_-_Massachusetts.jpg",
+    "chinese::hot and sour soup": "https://www.themealdb.com/images/media/meals/1529445893.jpg",
+    "chinese::xiao long bao": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Xiao_long_bao_3.jpg/960px-Xiao_long_bao_3.jpg",
+    "chinese::chow mein": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Chow_Mein_1.jpg/960px-Chow_Mein_1.jpg",
+    "chinese::congee": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/A_BOWL_OF_FOXTAIL_MILLET_CONGEE.jpg/960px-A_BOWL_OF_FOXTAIL_MILLET_CONGEE.jpg",
+    "chinese::twice-cooked pork": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Twice-cooked_Pork_%E5%9B%9E%E9%94%85%E8%82%89_%281648213963%29.jpg/960px-Twice-cooked_Pork_%E5%9B%9E%E9%94%85%E8%82%89_%281648213963%29.jpg",
+    "chinese::steamed sea bass": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/CHILEAN_SEA_BASS_with_SUKI_SAUCE_%28Spicy%29_Steamed_sea_bass_topped_with_our_special_spicy_chili_sauce._Served_on_top_of_steamed_vegetables.jpg/960px-CHILEAN_SEA_BASS_with_SUKI_SAUCE_%28Spicy%29_Steamed_sea_bass_topped_with_our_special_spicy_chili_sauce._Served_on_top_of_steamed_vegetables.jpg",
+    "chinese::egg fried rice": "https://www.themealdb.com/images/media/meals/wuyd2h1765655837.jpg",
+    "middle eastern::falafel": "https://www.themealdb.com/images/media/meals/u5e9qq1763795441.jpg",
+    "middle eastern::hummus": "https://www.themealdb.com/images/media/meals/gpon5u1763801180.jpg",
+    "middle eastern::shawarma plate": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Plate_shawarma.jpg/960px-Plate_shawarma.jpg",
+    "middle eastern::kibbeh": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Kibbeh3.jpg/960px-Kibbeh3.jpg",
+    "middle eastern::fattoush": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Fattoush.JPG/960px-Fattoush.JPG",
+    "middle eastern::mujadara": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Baba_ghannouj%2C_mujadara%2C_hoummos%2C_and_tabbouleh_-_Cambridge%2C_MA.jpg/960px-Baba_ghannouj%2C_mujadara%2C_hoummos%2C_and_tabbouleh_-_Cambridge%2C_MA.jpg",
+    "middle eastern::baba ganoush": "https://www.themealdb.com/images/media/meals/dlmh401760524897.jpg",
+    "middle eastern::shakshuka": "https://www.themealdb.com/images/media/meals/g373701551450225.jpg",
+    "middle eastern::tabbouleh": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Beef_shawarma_and_tabbouleh%2C_Qantas%2C_2024_%2801%29.jpg/960px-Beef_shawarma_and_tabbouleh%2C_Qantas%2C_2024_%2801%29.jpg",
+    "middle eastern::harira soup": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Liat_Portal_for_Foodie_Disorder_-_Harira_soup.jpg/960px-Liat_Portal_for_Foodie_Disorder_-_Harira_soup.jpg",
+    "indian::poha": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Poha.jpg/960px-Poha.jpg",
+    "indian::rasam": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rasam.JPG/960px-Rasam.JPG",
+    "indian::pav bhaji": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bhaji_pav_2.jpg/960px-Bhaji_pav_2.jpg",
+    "indian::vada pav": "https://upload.wikimedia.org/wikipedia/commons/6/63/Vada_Pav.jpg",
+    "indian::dhokla": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dhokla_2.jpg/960px-Dhokla_2.jpg",
+    "indian::khandvi": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Khandvi_1.jpg/960px-Khandvi_1.jpg",
+    "indian::baingan bharta": "https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg",
+    "indian::lauki chana dal": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lauki_and_Chana_Dal_Curry.jpg/960px-Lauki_and_Chana_Dal_Curry.jpg",
+    "indian::rajma masala": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Rajma_Masala.jpg/960px-Rajma_Masala.jpg",
+    "indian::goan fish curry": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Goan_Fish_Curry_Rice.jpg/960px-Goan_Fish_Curry_Rice.jpg",
+    "indian::lamb vindaloo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Lamb_vindaloo_in_Helsinki.jpg/960px-Lamb_vindaloo_in_Helsinki.jpg",
+    "indian::tandoori chicken": "https://www.themealdb.com/images/media/meals/qptpvt1487339892.jpg",
+    "indian::keema matar": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Keema_Matar%2C_Les_Jardins_de_Shah_Jahan%2C_Montparnasse%2C_Paris_001.jpg/960px-Keema_Matar%2C_Les_Jardins_de_Shah_Jahan%2C_Montparnasse%2C_Paris_001.jpg",
+    "indian::pesarattu": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Pesarattu.jpg",
+    "indian::appam with stew": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Appam_and_stew.jpg/960px-Appam_and_stew.jpg",
+    "italian::pilchard puttanesca": "https://www.themealdb.com/images/media/meals/vvtvtr1511180578.jpg",
+    "italian::pizza express margherita": "https://www.themealdb.com/images/media/meals/x0lk931587671540.jpg",
+    "italian::potato gratin with chicken": "https://www.themealdb.com/images/media/meals/qwrtut1468418027.jpg",
+    "italian::rigatoni with fennel sausage sauce": "https://www.themealdb.com/images/media/meals/qtqvys1468573168.jpg",
+    "italian::salmon prawn risotto": "https://www.themealdb.com/images/media/meals/xxrxux1503070723.jpg",
+    "italian::spaghetti alla carbonara": "https://www.themealdb.com/images/media/meals/llcbn01574260722.jpg",
+    "italian::spaghetti bolognese": "https://www.themealdb.com/images/media/meals/sutysw1468247559.jpg",
+    "italian::spicy arrabiata penne": "https://www.themealdb.com/images/media/meals/ustsqw1468250014.jpg",
+    "italian::spinach & ricotta cannelloni": "https://www.themealdb.com/images/media/meals/wspuvp1511303478.jpg",
+    "italian::squash linguine": "https://www.themealdb.com/images/media/meals/wxswxy1511452625.jpg",
+    "italian::vegan lasagna": "https://www.themealdb.com/images/media/meals/rvxxuy1468312893.jpg",
+    "italian::venetian duck ragu": "https://www.themealdb.com/images/media/meals/qvrwpt1511181864.jpg",
+    "chinese::air fryer egg rolls": "https://www.themealdb.com/images/media/meals/grhn401765687086.jpg",
+    "chinese::beef and broccoli stir-fry": "https://www.themealdb.com/images/media/meals/m0p0j81765568742.jpg",
+    "chinese::beef lo mein": "https://www.themealdb.com/images/media/meals/1529444830.jpg",
+    "chinese::chicken congee": "https://www.themealdb.com/images/media/meals/1529446352.jpg",
+    "chinese::chicken fried rice": "https://www.themealdb.com/images/media/meals/wuyd2h1765655837.jpg",
+    "chinese::chinese orange chicken": "https://www.themealdb.com/images/media/meals/s73ytv1765567838.jpg",
+    "chinese::chinese tomato egg stir fry": "https://www.themealdb.com/images/media/meals/rwvw8q1765660071.jpg",
+    "chinese::egg drop soup": "https://www.themealdb.com/images/media/meals/1529446137.jpg",
+    "chinese::egg foo young": "https://www.themealdb.com/images/media/meals/47y6ii1765658818.jpg",
+    "chinese::general tsos chicken": "https://www.themealdb.com/images/media/meals/1529444113.jpg",
+    "chinese::kung po prawns": "https://www.themealdb.com/images/media/meals/1525873040.jpg",
+    "chinese::ma po tofu": "https://www.themealdb.com/images/media/meals/1525874812.jpg",
+    "chinese::napa cabbage with dried shrimp": "https://www.themealdb.com/images/media/meals/9nh4dl1766435484.jpg",
+    "chinese::ramen noodles with boiled egg": "https://www.themealdb.com/images/media/meals/ip5xtp1769779958.jpg",
+    "chinese::sesame cucumber salad": "https://www.themealdb.com/images/media/meals/93iok31766436070.jpg",
+    "chinese::shrimp chow fun": "https://www.themealdb.com/images/media/meals/1529445434.jpg",
+    "chinese::shrimp with snow peas": "https://www.themealdb.com/images/media/meals/fpl3mv1766433431.jpg",
+    "chinese::sichuan eggplant": "https://www.themealdb.com/images/media/meals/1oz4nb1765687990.jpg",
+    "chinese::sichuan style stir-fried chinese long beans": "https://www.themealdb.com/images/media/meals/i0610h1765659464.jpg",
+    "chinese::silken tofu with sesame soy sauce": "https://www.themealdb.com/images/media/meals/j9nray1765657692.jpg",
+    "chinese::singapore noodles with shrimp": "https://www.themealdb.com/images/media/meals/f3cxnc1765656994.jpg",
+    "chinese::sweet and sour chicken": "https://www.themealdb.com/images/media/meals/arzs741766434335.jpg",
+    "chinese::sweet and sour pork": "https://www.themealdb.com/images/media/meals/1529442316.jpg",
+    "chinese::szechuan beef": "https://www.themealdb.com/images/media/meals/1529443236.jpg",
+    "chinese::wontons": "https://www.themealdb.com/images/media/meals/1525876468.jpg",
+    "middle eastern::egyptian fatteh": "https://www.themealdb.com/images/media/meals/rlwcc51598734603.jpg",
+    "middle eastern::feteer meshaltet": "https://www.themealdb.com/images/media/meals/9f4z6v1598734293.jpg",
+    "middle eastern::ful medames": "https://www.themealdb.com/images/media/meals/lvn2d51598732465.jpg",
+    "middle eastern::koshari": "https://www.themealdb.com/images/media/meals/4er7mj1598733193.jpg",
+    "middle eastern::mulukhiyah": "https://www.themealdb.com/images/media/meals/x372ug1598733932.jpg",
+    "middle eastern::shawarma": "https://www.themealdb.com/images/media/meals/kcv6hj1598733479.jpg",
+    "middle eastern::tamiya": "https://www.themealdb.com/images/media/meals/n3xxd91598732796.jpg",
+    "middle eastern::chicken couscous": "https://www.themealdb.com/images/media/meals/qxytrx1511304021.jpg",
+    "middle eastern::lamb tagine": "https://www.themealdb.com/images/media/meals/yuwtuu1511295751.jpg",
+    "middle eastern::lamb tomato and sweet spices": "https://www.themealdb.com/images/media/meals/qtwtss1468572261.jpg",
+    "middle eastern::moroccan carrot soup": "https://www.themealdb.com/images/media/meals/jcr46d1614763831.jpg",
+    "middle eastern::spicy north african potato salad": "https://www.themealdb.com/images/media/meals/urtwux1486983078.jpg",
+    "middle eastern::tahini lentils": "https://www.themealdb.com/images/media/meals/vpxyqt1511464175.jpg",
+    "middle eastern::adana kebab": "https://www.themealdb.com/images/media/meals/04axct1763793018.jpg",
+    "middle eastern::apricot & turkish delight mess": "https://www.themealdb.com/images/media/meals/p277uc1764109195.jpg",
+    "middle eastern::aubergine & hummus grills": "https://www.themealdb.com/images/media/meals/zub3s91764110535.jpg",
+    "middle eastern::aubergine couscous salad": "https://www.themealdb.com/images/media/meals/02s6gc1763799560.jpg",
+    "middle eastern::baklava with spiced nuts, ricotta & chocolate": "https://www.themealdb.com/images/media/meals/ytme8t1764111401.jpg",
+    "middle eastern::cacik": "https://www.themealdb.com/images/media/meals/16zbeu1763789342.jpg",
+    "middle eastern::chicken wings with cumin, lemon & garlic": "https://www.themealdb.com/images/media/meals/4hzyvq1763792564.jpg",
+    "middle eastern::chilli ginger lamb chops": "https://www.themealdb.com/images/media/meals/8xuvhj1763794991.jpg",
+    "middle eastern::corba": "https://www.themealdb.com/images/media/meals/58oia61564916529.jpg",
+    "middle eastern::ezme": "https://www.themealdb.com/images/media/meals/pb6mj11763788331.jpg",
+    "middle eastern::griddled aubergines with sesame dressing": "https://www.themealdb.com/images/media/meals/yoj48r1763817100.jpg",
+    "middle eastern::griddled flatbreads": "https://www.themealdb.com/images/media/meals/8825lo1763815264.jpg",
+    "middle eastern::grilled aubergines with spicy chickpeas & walnut sauce": "https://www.themealdb.com/images/media/meals/ctw3ba1763788978.jpg",
+    "middle eastern::hot cumin lamb wrap with crunchy slaw & spicy mayo": "https://www.themealdb.com/images/media/meals/jyylmo1763790808.jpg",
+    "middle eastern::imam bayildi with bbq lamb & tzatziki": "https://www.themealdb.com/images/media/meals/ampz9v1763787134.jpg",
+    "middle eastern::kofta burgers": "https://www.themealdb.com/images/media/meals/lgmnff1763789847.jpg",
+    "middle eastern::kumpir": "https://www.themealdb.com/images/media/meals/mlchx21564916997.jpg",
+    "middle eastern::lamb & apricot meatballs": "https://www.themealdb.com/images/media/meals/72fgzj1764109947.jpg",
+    "middle eastern::roast aubergine with goat's cheese & toasted flatbread": "https://www.themealdb.com/images/media/meals/iydbwy1763816111.jpg",
+    "middle eastern::roasted chicken with creamy walnut sauce": "https://www.themealdb.com/images/media/meals/ro8mzj1763800655.jpg",
+    "middle eastern::slow-roast lamb with cinnamon, fennel & citrus": "https://www.themealdb.com/images/media/meals/gr4lo51763791826.jpg",
+    "middle eastern::smoked aubergine pur\u00e9e": "https://www.themealdb.com/images/media/meals/8c8m4q1763791156.jpg",
+    "middle eastern::smoky chicken skewers": "https://www.themealdb.com/images/media/meals/3um6il1763794322.jpg",
+    "middle eastern::sweet potato salad": "https://www.themealdb.com/images/media/meals/z458v91763817681.jpg",
+    "middle eastern::turkish lamb pilau": "https://www.themealdb.com/images/media/meals/cr2kyr1763793839.jpg",
+    "middle eastern::turkish rice (vermicelli rice)": "https://www.themealdb.com/images/media/meals/xw1ruy1763786501.jpg",
+    "middle eastern::turkish-style lamb": "https://www.themealdb.com/images/media/meals/0p7l6b1763813981.jpg",
+    "middle eastern::walnut, date & honey cake": "https://www.themealdb.com/images/media/meals/towo9c1763814590.jpg",
+    "middle eastern::baba ghanoush": "https://www.themealdb.com/images/media/meals/dlmh401760524897.jpg",
+    "middle eastern::falafel pita sandwich with tahini sauce": "https://www.themealdb.com/images/media/meals/ae6clc1760524712.jpg",
+    "middle eastern::fasoliyyeh bi z-zayt (syrian green beans with olive oil)": "https://www.themealdb.com/images/media/meals/21yc5s1760524759.jpg",
+    "middle eastern::syrian bread": "https://www.themealdb.com/images/media/meals/54xzk31760524666.jpg",
+    "middle eastern::syrian rice with meat": "https://www.themealdb.com/images/media/meals/zg2b9l1760524940.jpg",
+    "middle eastern::syrian spaghetti": "https://www.themealdb.com/images/media/meals/5fu4ew1760524857.jpg",
+    "middle eastern::cashew ghoriba biscuits": "https://www.themealdb.com/images/media/meals/t3r3ka1560461972.jpg",
+    "middle eastern::chakchouka": "https://www.themealdb.com/images/media/meals/gpz67p1560458984.jpg",
+    "middle eastern::kafteji": "https://www.themealdb.com/images/media/meals/1bsv1q1560459826.jpg",
+    "middle eastern::keleya zaara": "https://www.themealdb.com/images/media/meals/8x09hy1560460923.jpg",
+    "middle eastern::leblebi soup": "https://www.themealdb.com/images/media/meals/x2fw9e1560460636.jpg",
+    "middle eastern::tuna and egg briks": "https://www.themealdb.com/images/media/meals/2dsltq1560461468.jpg",
+    "middle eastern::tunisian lamb soup": "https://www.themealdb.com/images/media/meals/t8mn9g1560460231.jpg",
+    "middle eastern::tunisian orange cake": "https://www.themealdb.com/images/media/meals/y4jpgq1560459207.jpg",
+    "middle eastern::chicken quinoa greek salad": "https://www.themealdb.com/images/media/meals/k29viq1585565980.jpg",
+    "middle eastern::garides saganaki": "https://www.themealdb.com/images/media/meals/wuvryu1468232995.jpg",
+    "middle eastern::gigantes plaki": "https://www.themealdb.com/images/media/meals/b79r6f1585566277.jpg",
+    "middle eastern::honey yogurt cheesecake": "https://www.themealdb.com/images/media/meals/y2irzl1585563479.jpg",
+    "middle eastern::lamb and lemon souvlaki": "https://www.themealdb.com/images/media/meals/rjhf741585564676.jpg",
+    "middle eastern::lamb tzatziki burgers": "https://www.themealdb.com/images/media/meals/k420tj1585565244.jpg",
+    "middle eastern::moussaka": "https://www.themealdb.com/images/media/meals/ctg8jd1585563097.jpg",
+    "middle eastern::stuffed lamb tomatoes": "https://www.themealdb.com/images/media/meals/u55lbp1585564013.jpg"
+  },
+  "by_name": {
+    "rogan josh": "https://www.themealdb.com/images/media/meals/vvstvq1487342592.jpg",
+    "yakhni pulao": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Chicken_Yakhni_Pulao.jpg/960px-Chicken_Yakhni_Pulao.jpg",
+    "masala dosa": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Masala_dosa_01.jpg/960px-Masala_dosa_01.jpg",
+    "sambar": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+    "aloo gobi": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Aloo_gobi.jpg/960px-Aloo_gobi.jpg",
+    "pav bhaji": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bhaji_pav_2.jpg/960px-Bhaji_pav_2.jpg",
+    "vada pav": "https://upload.wikimedia.org/wikipedia/commons/6/63/Vada_Pav.jpg",
+    "dhokla": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dhokla_2.jpg/960px-Dhokla_2.jpg",
+    "khandvi": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Khandvi_1.jpg/960px-Khandvi_1.jpg",
+    "baingan bharta": "https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg",
+    "tandoori chicken": "https://www.themealdb.com/images/media/meals/qptpvt1487339892.jpg",
+    "spaghetti carbonara": "https://www.themealdb.com/images/media/meals/llcbn01574260722.jpg",
+    "ossobuco milanese": "https://www.themealdb.com/images/media/meals/wwuqvt1487345467.jpg",
+    "saltimbocca alla romana": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Saltimbocca_alla_Romana.jpg/960px-Saltimbocca_alla_Romana.jpg",
+    "cacio e pepe": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Cacio_e_pepe.jpg/960px-Cacio_e_pepe.jpg",
+    "eggplant parmigiana": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Eggplant_parmigiana.jpg/960px-Eggplant_parmigiana.jpg",
+    "panna cotta": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Panna_cotta_2_%28fcm%29.JPG/960px-Panna_cotta_2_%28fcm%29.JPG",
+    "arancini": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Arancini_002.jpg/960px-Arancini_002.jpg",
+    "ribollita": "https://www.themealdb.com/images/media/meals/xrrwpx1487347049.jpg",
+    "kung pao chicken": "https://www.themealdb.com/images/media/meals/1525872624.jpg",
+    "mapo tofu": "https://www.themealdb.com/images/media/meals/1525874812.jpg",
+    "hot and sour soup": "https://www.themealdb.com/images/media/meals/1529445893.jpg",
+    "xiao long bao": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Xiao_long_bao_3.jpg/960px-Xiao_long_bao_3.jpg",
+    "chow mein": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Chow_Mein_1.jpg/960px-Chow_Mein_1.jpg",
+    "falafel": "https://www.themealdb.com/images/media/meals/u5e9qq1763795441.jpg",
+    "hummus": "https://www.themealdb.com/images/media/meals/gpon5u1763801180.jpg",
+    "baba ganoush": "https://www.themealdb.com/images/media/meals/dlmh401760524897.jpg",
+    "shakshuka": "https://www.themealdb.com/images/media/meals/g373701551450225.jpg",
+    "miso soup": "https://upload.wikimedia.org/wikipedia/commons/0/00/Miso_Soup.jpg",
+    "pasta aglio e olio": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Aglio_e_Olio.jpg/960px-Aglio_e_Olio.jpg",
+    "lentil soup": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Lentil_soup_done.jpg/960px-Lentil_soup_done.jpg",
+    "budino di ricotta": "https://www.themealdb.com/images/media/meals/1549542877.jpg",
+    "chicken alfredo primavera": "https://www.themealdb.com/images/media/meals/syqypv1486981727.jpg",
+    "chilli prawn linguine": "https://www.themealdb.com/images/media/meals/usywpp1511189717.jpg",
+    "fettuccine alfredo": "https://www.themealdb.com/images/media/meals/0jv5gx1661040802.jpg",
+    "fettucine alfredo": "https://www.themealdb.com/images/media/meals/uquqtu1511178042.jpg",
+    "lasagne": "https://www.themealdb.com/images/media/meals/wtsvxx1511296896.jpg",
+    "mediterranean pasta salad": "https://www.themealdb.com/images/media/meals/wvqpwt1468339226.jpg",
+    "osso buco alla milanese": "https://www.themealdb.com/images/media/meals/wwuqvt1487345467.jpg",
+    "pilchard puttanesca": "https://www.themealdb.com/images/media/meals/vvtvtr1511180578.jpg",
+    "pizza express margherita": "https://www.themealdb.com/images/media/meals/x0lk931587671540.jpg",
+    "potato gratin with chicken": "https://www.themealdb.com/images/media/meals/qwrtut1468418027.jpg",
+    "rigatoni with fennel sausage sauce": "https://www.themealdb.com/images/media/meals/qtqvys1468573168.jpg",
+    "salmon prawn risotto": "https://www.themealdb.com/images/media/meals/xxrxux1503070723.jpg",
+    "spaghetti alla carbonara": "https://www.themealdb.com/images/media/meals/llcbn01574260722.jpg",
+    "spaghetti bolognese": "https://www.themealdb.com/images/media/meals/sutysw1468247559.jpg",
+    "spicy arrabiata penne": "https://www.themealdb.com/images/media/meals/ustsqw1468250014.jpg",
+    "spinach & ricotta cannelloni": "https://www.themealdb.com/images/media/meals/wspuvp1511303478.jpg",
+    "squash linguine": "https://www.themealdb.com/images/media/meals/wxswxy1511452625.jpg",
+    "vegan lasagna": "https://www.themealdb.com/images/media/meals/rvxxuy1468312893.jpg",
+    "venetian duck ragu": "https://www.themealdb.com/images/media/meals/qvrwpt1511181864.jpg",
+    "air fryer egg rolls": "https://www.themealdb.com/images/media/meals/grhn401765687086.jpg",
+    "beef and broccoli stir-fry": "https://www.themealdb.com/images/media/meals/m0p0j81765568742.jpg",
+    "beef lo mein": "https://www.themealdb.com/images/media/meals/1529444830.jpg",
+    "chicken congee": "https://www.themealdb.com/images/media/meals/1529446352.jpg",
+    "chicken fried rice": "https://www.themealdb.com/images/media/meals/wuyd2h1765655837.jpg",
+    "chinese orange chicken": "https://www.themealdb.com/images/media/meals/s73ytv1765567838.jpg",
+    "chinese tomato egg stir fry": "https://www.themealdb.com/images/media/meals/rwvw8q1765660071.jpg",
+    "egg drop soup": "https://www.themealdb.com/images/media/meals/1529446137.jpg",
+    "egg foo young": "https://www.themealdb.com/images/media/meals/47y6ii1765658818.jpg",
+    "general tsos chicken": "https://www.themealdb.com/images/media/meals/1529444113.jpg",
+    "kung po prawns": "https://www.themealdb.com/images/media/meals/1525873040.jpg",
+    "ma po tofu": "https://www.themealdb.com/images/media/meals/1525874812.jpg",
+    "napa cabbage with dried shrimp": "https://www.themealdb.com/images/media/meals/9nh4dl1766435484.jpg",
+    "ramen noodles with boiled egg": "https://www.themealdb.com/images/media/meals/ip5xtp1769779958.jpg",
+    "sesame cucumber salad": "https://www.themealdb.com/images/media/meals/93iok31766436070.jpg",
+    "shrimp chow fun": "https://www.themealdb.com/images/media/meals/1529445434.jpg",
+    "shrimp with snow peas": "https://www.themealdb.com/images/media/meals/fpl3mv1766433431.jpg",
+    "sichuan eggplant": "https://www.themealdb.com/images/media/meals/1oz4nb1765687990.jpg",
+    "sichuan style stir-fried chinese long beans": "https://www.themealdb.com/images/media/meals/i0610h1765659464.jpg",
+    "silken tofu with sesame soy sauce": "https://www.themealdb.com/images/media/meals/j9nray1765657692.jpg",
+    "singapore noodles with shrimp": "https://www.themealdb.com/images/media/meals/f3cxnc1765656994.jpg",
+    "sweet and sour chicken": "https://www.themealdb.com/images/media/meals/arzs741766434335.jpg",
+    "sweet and sour pork": "https://www.themealdb.com/images/media/meals/1529442316.jpg",
+    "szechuan beef": "https://www.themealdb.com/images/media/meals/1529443236.jpg",
+    "wontons": "https://www.themealdb.com/images/media/meals/1525876468.jpg",
+    "egyptian fatteh": "https://www.themealdb.com/images/media/meals/rlwcc51598734603.jpg",
+    "feteer meshaltet": "https://www.themealdb.com/images/media/meals/9f4z6v1598734293.jpg",
+    "ful medames": "https://www.themealdb.com/images/media/meals/lvn2d51598732465.jpg",
+    "koshari": "https://www.themealdb.com/images/media/meals/4er7mj1598733193.jpg",
+    "mulukhiyah": "https://www.themealdb.com/images/media/meals/x372ug1598733932.jpg",
+    "shawarma": "https://www.themealdb.com/images/media/meals/kcv6hj1598733479.jpg",
+    "tamiya": "https://www.themealdb.com/images/media/meals/n3xxd91598732796.jpg",
+    "chicken couscous": "https://www.themealdb.com/images/media/meals/qxytrx1511304021.jpg",
+    "lamb tagine": "https://www.themealdb.com/images/media/meals/yuwtuu1511295751.jpg",
+    "lamb tomato and sweet spices": "https://www.themealdb.com/images/media/meals/qtwtss1468572261.jpg",
+    "moroccan carrot soup": "https://www.themealdb.com/images/media/meals/jcr46d1614763831.jpg",
+    "spicy north african potato salad": "https://www.themealdb.com/images/media/meals/urtwux1486983078.jpg",
+    "tahini lentils": "https://www.themealdb.com/images/media/meals/vpxyqt1511464175.jpg",
+    "adana kebab": "https://www.themealdb.com/images/media/meals/04axct1763793018.jpg",
+    "apricot & turkish delight mess": "https://www.themealdb.com/images/media/meals/p277uc1764109195.jpg",
+    "aubergine & hummus grills": "https://www.themealdb.com/images/media/meals/zub3s91764110535.jpg",
+    "aubergine couscous salad": "https://www.themealdb.com/images/media/meals/02s6gc1763799560.jpg",
+    "baklava with spiced nuts, ricotta & chocolate": "https://www.themealdb.com/images/media/meals/ytme8t1764111401.jpg",
+    "cacik": "https://www.themealdb.com/images/media/meals/16zbeu1763789342.jpg",
+    "chicken wings with cumin, lemon & garlic": "https://www.themealdb.com/images/media/meals/4hzyvq1763792564.jpg",
+    "chilli ginger lamb chops": "https://www.themealdb.com/images/media/meals/8xuvhj1763794991.jpg",
+    "corba": "https://www.themealdb.com/images/media/meals/58oia61564916529.jpg",
+    "ezme": "https://www.themealdb.com/images/media/meals/pb6mj11763788331.jpg",
+    "griddled aubergines with sesame dressing": "https://www.themealdb.com/images/media/meals/yoj48r1763817100.jpg",
+    "griddled flatbreads": "https://www.themealdb.com/images/media/meals/8825lo1763815264.jpg",
+    "grilled aubergines with spicy chickpeas & walnut sauce": "https://www.themealdb.com/images/media/meals/ctw3ba1763788978.jpg",
+    "hot cumin lamb wrap with crunchy slaw & spicy mayo": "https://www.themealdb.com/images/media/meals/jyylmo1763790808.jpg",
+    "imam bayildi with bbq lamb & tzatziki": "https://www.themealdb.com/images/media/meals/ampz9v1763787134.jpg",
+    "kofta burgers": "https://www.themealdb.com/images/media/meals/lgmnff1763789847.jpg",
+    "kumpir": "https://www.themealdb.com/images/media/meals/mlchx21564916997.jpg",
+    "lamb & apricot meatballs": "https://www.themealdb.com/images/media/meals/72fgzj1764109947.jpg",
+    "roast aubergine with goat's cheese & toasted flatbread": "https://www.themealdb.com/images/media/meals/iydbwy1763816111.jpg",
+    "roasted chicken with creamy walnut sauce": "https://www.themealdb.com/images/media/meals/ro8mzj1763800655.jpg",
+    "slow-roast lamb with cinnamon, fennel & citrus": "https://www.themealdb.com/images/media/meals/gr4lo51763791826.jpg",
+    "smoked aubergine pur\u00e9e": "https://www.themealdb.com/images/media/meals/8c8m4q1763791156.jpg",
+    "smoky chicken skewers": "https://www.themealdb.com/images/media/meals/3um6il1763794322.jpg",
+    "sweet potato salad": "https://www.themealdb.com/images/media/meals/z458v91763817681.jpg",
+    "turkish lamb pilau": "https://www.themealdb.com/images/media/meals/cr2kyr1763793839.jpg",
+    "turkish rice (vermicelli rice)": "https://www.themealdb.com/images/media/meals/xw1ruy1763786501.jpg",
+    "turkish-style lamb": "https://www.themealdb.com/images/media/meals/0p7l6b1763813981.jpg",
+    "walnut, date & honey cake": "https://www.themealdb.com/images/media/meals/towo9c1763814590.jpg",
+    "baba ghanoush": "https://www.themealdb.com/images/media/meals/dlmh401760524897.jpg",
+    "falafel pita sandwich with tahini sauce": "https://www.themealdb.com/images/media/meals/ae6clc1760524712.jpg",
+    "fasoliyyeh bi z-zayt (syrian green beans with olive oil)": "https://www.themealdb.com/images/media/meals/21yc5s1760524759.jpg",
+    "syrian bread": "https://www.themealdb.com/images/media/meals/54xzk31760524666.jpg",
+    "syrian rice with meat": "https://www.themealdb.com/images/media/meals/zg2b9l1760524940.jpg",
+    "syrian spaghetti": "https://www.themealdb.com/images/media/meals/5fu4ew1760524857.jpg",
+    "cashew ghoriba biscuits": "https://www.themealdb.com/images/media/meals/t3r3ka1560461972.jpg",
+    "chakchouka": "https://www.themealdb.com/images/media/meals/gpz67p1560458984.jpg",
+    "kafteji": "https://www.themealdb.com/images/media/meals/1bsv1q1560459826.jpg",
+    "keleya zaara": "https://www.themealdb.com/images/media/meals/8x09hy1560460923.jpg",
+    "leblebi soup": "https://www.themealdb.com/images/media/meals/x2fw9e1560460636.jpg",
+    "tuna and egg briks": "https://www.themealdb.com/images/media/meals/2dsltq1560461468.jpg",
+    "tunisian lamb soup": "https://www.themealdb.com/images/media/meals/t8mn9g1560460231.jpg",
+    "tunisian orange cake": "https://www.themealdb.com/images/media/meals/y4jpgq1560459207.jpg",
+    "chicken quinoa greek salad": "https://www.themealdb.com/images/media/meals/k29viq1585565980.jpg",
+    "garides saganaki": "https://www.themealdb.com/images/media/meals/wuvryu1468232995.jpg",
+    "gigantes plaki": "https://www.themealdb.com/images/media/meals/b79r6f1585566277.jpg",
+    "honey yogurt cheesecake": "https://www.themealdb.com/images/media/meals/y2irzl1585563479.jpg",
+    "lamb and lemon souvlaki": "https://www.themealdb.com/images/media/meals/rjhf741585564676.jpg",
+    "lamb tzatziki burgers": "https://www.themealdb.com/images/media/meals/k420tj1585565244.jpg",
+    "moussaka": "https://www.themealdb.com/images/media/meals/ctg8jd1585563097.jpg",
+    "stuffed lamb tomatoes": "https://www.themealdb.com/images/media/meals/u55lbp1585564013.jpg",
+    "haak": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Alar_Haak_2008.jpg",
+    "gushtaba": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Gushtaba..JPG/960px-Gushtaba..JPG",
+    "kaliya": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Emma_Kaliya_Videoframe_138077.png/960px-Emma_Kaliya_Videoframe_138077.png",
+    "noon chai": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dry_fuit_vendor_drinks_noon_chai.jpg/960px-Dry_fuit_vendor_drinks_noon_chai.jpg",
+    "vegetable stir-fry": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Vegetable_stir-fry.jpg/960px-Vegetable_stir-fry.jpg",
+    "chana masala": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Chana_Masala_Fry.jpg/960px-Chana_Masala_Fry.jpg",
+    "chicken tikka wrap": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Chicken_Tikka_1.jpg/960px-Chicken_Tikka_1.jpg",
+    "berry smoothie": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Berry_smoothie_and_coffee_at_Antell_Martintalo.jpg/960px-Berry_smoothie_and_coffee_at_Antell_Martintalo.jpg",
+    "dal makhani": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Dal_Makhani..JPG/960px-Dal_Makhani..JPG",
+    "butter chicken": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Butter_Chicken%2C_City_Grill_Kottayam.jpg/960px-Butter_Chicken%2C_City_Grill_Kottayam.jpg",
+    "kerala fish curry": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Fish_Curry_Kerala.jpg/960px-Fish_Curry_Kerala.jpg",
+    "poha breakfast": "https://www.themealdb.com/images/media/meals/naqyel1608588563.jpg",
+    "risotto ai funghi": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Risotto_ai_funghi_porcini.JPG/960px-Risotto_ai_funghi_porcini.JPG",
+    "margherita pizza": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Margherita_pizza_on_plate.jpg/960px-Margherita_pizza_on_plate.jpg",
+    "minestrone": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Minestrone_soup.jpg/960px-Minestrone_soup.jpg",
+    "steamed sea bass": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/CHILEAN_SEA_BASS_with_SUKI_SAUCE_%28Spicy%29_Steamed_sea_bass_topped_with_our_special_spicy_chili_sauce._Served_on_top_of_steamed_vegetables.jpg/960px-CHILEAN_SEA_BASS_with_SUKI_SAUCE_%28Spicy%29_Steamed_sea_bass_topped_with_our_special_spicy_chili_sauce._Served_on_top_of_steamed_vegetables.jpg",
+    "egg fried rice": "https://www.themealdb.com/images/media/meals/wuyd2h1765655837.jpg",
+    "shawarma plate": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Plate_shawarma.jpg/960px-Plate_shawarma.jpg",
+    "kibbeh": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Kibbeh3.jpg/960px-Kibbeh3.jpg",
+    "fattoush": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Fattoush.JPG/960px-Fattoush.JPG",
+    "mujadara": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Baba_ghannouj%2C_mujadara%2C_hoummos%2C_and_tabbouleh_-_Cambridge%2C_MA.jpg/960px-Baba_ghannouj%2C_mujadara%2C_hoummos%2C_and_tabbouleh_-_Cambridge%2C_MA.jpg",
+    "tabbouleh": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Beef_shawarma_and_tabbouleh%2C_Qantas%2C_2024_%2801%29.jpg/960px-Beef_shawarma_and_tabbouleh%2C_Qantas%2C_2024_%2801%29.jpg",
+    "harira soup": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Liat_Portal_for_Foodie_Disorder_-_Harira_soup.jpg/960px-Liat_Portal_for_Foodie_Disorder_-_Harira_soup.jpg",
+    "poha": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Poha.jpg/960px-Poha.jpg",
+    "rasam": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rasam.JPG/960px-Rasam.JPG",
+    "lauki chana dal": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lauki_and_Chana_Dal_Curry.jpg/960px-Lauki_and_Chana_Dal_Curry.jpg",
+    "rajma masala": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Rajma_Masala.jpg/960px-Rajma_Masala.jpg",
+    "lamb vindaloo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Lamb_vindaloo_in_Helsinki.jpg/960px-Lamb_vindaloo_in_Helsinki.jpg",
+    "keema matar": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Keema_Matar%2C_Les_Jardins_de_Shah_Jahan%2C_Montparnasse%2C_Paris_001.jpg/960px-Keema_Matar%2C_Les_Jardins_de_Shah_Jahan%2C_Montparnasse%2C_Paris_001.jpg",
+    "pesarattu": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Pesarattu.jpg",
+    "appam with stew": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Appam_and_stew.jpg/960px-Appam_and_stew.jpg"
+  },
+  "by_cuisine": {
+    "Kashmiri": {
+      "rogan josh": "https://www.themealdb.com/images/media/meals/vvstvq1487342592.jpg",
+      "yakhni pulao": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Chicken_Yakhni_Pulao.jpg/960px-Chicken_Yakhni_Pulao.jpg"
+    },
+    "Indian": {
+      "masala dosa": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Masala_dosa_01.jpg/960px-Masala_dosa_01.jpg",
+      "sambar": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "aloo gobi": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Aloo_gobi.jpg/960px-Aloo_gobi.jpg",
+      "pav bhaji": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bhaji_pav_2.jpg/960px-Bhaji_pav_2.jpg",
+      "vada pav": "https://upload.wikimedia.org/wikipedia/commons/6/63/Vada_Pav.jpg",
+      "dhokla": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dhokla_2.jpg/960px-Dhokla_2.jpg",
+      "khandvi": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Khandvi_1.jpg/960px-Khandvi_1.jpg",
+      "baingan bharta": "https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg",
+      "tandoori chicken": "https://www.themealdb.com/images/media/meals/qptpvt1487339892.jpg"
+    },
+    "Italian": {
+      "spaghetti carbonara": "https://www.themealdb.com/images/media/meals/llcbn01574260722.jpg",
+      "ossobuco milanese": "https://www.themealdb.com/images/media/meals/wwuqvt1487345467.jpg",
+      "saltimbocca alla romana": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Saltimbocca_alla_Romana.jpg/960px-Saltimbocca_alla_Romana.jpg",
+      "cacio e pepe": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Cacio_e_pepe.jpg/960px-Cacio_e_pepe.jpg",
+      "eggplant parmigiana": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Eggplant_parmigiana.jpg/960px-Eggplant_parmigiana.jpg",
+      "panna cotta": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Panna_cotta_2_%28fcm%29.JPG/960px-Panna_cotta_2_%28fcm%29.JPG",
+      "arancini": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Arancini_002.jpg/960px-Arancini_002.jpg",
+      "ribollita": "https://www.themealdb.com/images/media/meals/xrrwpx1487347049.jpg",
+      "pasta aglio e olio": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Aglio_e_Olio.jpg/960px-Aglio_e_Olio.jpg",
+      "budino di ricotta": "https://www.themealdb.com/images/media/meals/1549542877.jpg",
+      "chicken alfredo primavera": "https://www.themealdb.com/images/media/meals/syqypv1486981727.jpg",
+      "chilli prawn linguine": "https://www.themealdb.com/images/media/meals/usywpp1511189717.jpg",
+      "fettuccine alfredo": "https://www.themealdb.com/images/media/meals/0jv5gx1661040802.jpg",
+      "fettucine alfredo": "https://www.themealdb.com/images/media/meals/uquqtu1511178042.jpg",
+      "lasagne": "https://www.themealdb.com/images/media/meals/wtsvxx1511296896.jpg",
+      "mediterranean pasta salad": "https://www.themealdb.com/images/media/meals/wvqpwt1468339226.jpg",
+      "osso buco alla milanese": "https://www.themealdb.com/images/media/meals/wwuqvt1487345467.jpg",
+      "pilchard puttanesca": "https://www.themealdb.com/images/media/meals/vvtvtr1511180578.jpg",
+      "pizza express margherita": "https://www.themealdb.com/images/media/meals/x0lk931587671540.jpg",
+      "potato gratin with chicken": "https://www.themealdb.com/images/media/meals/qwrtut1468418027.jpg",
+      "rigatoni with fennel sausage sauce": "https://www.themealdb.com/images/media/meals/qtqvys1468573168.jpg",
+      "salmon prawn risotto": "https://www.themealdb.com/images/media/meals/xxrxux1503070723.jpg",
+      "spaghetti alla carbonara": "https://www.themealdb.com/images/media/meals/llcbn01574260722.jpg",
+      "spaghetti bolognese": "https://www.themealdb.com/images/media/meals/sutysw1468247559.jpg",
+      "spicy arrabiata penne": "https://www.themealdb.com/images/media/meals/ustsqw1468250014.jpg",
+      "spinach & ricotta cannelloni": "https://www.themealdb.com/images/media/meals/wspuvp1511303478.jpg",
+      "squash linguine": "https://www.themealdb.com/images/media/meals/wxswxy1511452625.jpg",
+      "vegan lasagna": "https://www.themealdb.com/images/media/meals/rvxxuy1468312893.jpg",
+      "venetian duck ragu": "https://www.themealdb.com/images/media/meals/qvrwpt1511181864.jpg"
+    },
+    "Chinese": {
+      "kung pao chicken": "https://www.themealdb.com/images/media/meals/1525872624.jpg",
+      "mapo tofu": "https://www.themealdb.com/images/media/meals/1525874812.jpg",
+      "hot and sour soup": "https://www.themealdb.com/images/media/meals/1529445893.jpg",
+      "xiao long bao": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Xiao_long_bao_3.jpg/960px-Xiao_long_bao_3.jpg",
+      "chow mein": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Chow_Mein_1.jpg/960px-Chow_Mein_1.jpg",
+      "air fryer egg rolls": "https://www.themealdb.com/images/media/meals/grhn401765687086.jpg",
+      "beef and broccoli stir-fry": "https://www.themealdb.com/images/media/meals/m0p0j81765568742.jpg",
+      "beef lo mein": "https://www.themealdb.com/images/media/meals/1529444830.jpg",
+      "chicken congee": "https://www.themealdb.com/images/media/meals/1529446352.jpg",
+      "chicken fried rice": "https://www.themealdb.com/images/media/meals/wuyd2h1765655837.jpg",
+      "chinese orange chicken": "https://www.themealdb.com/images/media/meals/s73ytv1765567838.jpg",
+      "chinese tomato egg stir fry": "https://www.themealdb.com/images/media/meals/rwvw8q1765660071.jpg",
+      "egg drop soup": "https://www.themealdb.com/images/media/meals/1529446137.jpg",
+      "egg foo young": "https://www.themealdb.com/images/media/meals/47y6ii1765658818.jpg",
+      "general tsos chicken": "https://www.themealdb.com/images/media/meals/1529444113.jpg",
+      "kung po prawns": "https://www.themealdb.com/images/media/meals/1525873040.jpg",
+      "ma po tofu": "https://www.themealdb.com/images/media/meals/1525874812.jpg",
+      "napa cabbage with dried shrimp": "https://www.themealdb.com/images/media/meals/9nh4dl1766435484.jpg",
+      "ramen noodles with boiled egg": "https://www.themealdb.com/images/media/meals/ip5xtp1769779958.jpg",
+      "sesame cucumber salad": "https://www.themealdb.com/images/media/meals/93iok31766436070.jpg",
+      "shrimp chow fun": "https://www.themealdb.com/images/media/meals/1529445434.jpg",
+      "shrimp with snow peas": "https://www.themealdb.com/images/media/meals/fpl3mv1766433431.jpg",
+      "sichuan eggplant": "https://www.themealdb.com/images/media/meals/1oz4nb1765687990.jpg",
+      "sichuan style stir-fried chinese long beans": "https://www.themealdb.com/images/media/meals/i0610h1765659464.jpg",
+      "silken tofu with sesame soy sauce": "https://www.themealdb.com/images/media/meals/j9nray1765657692.jpg",
+      "singapore noodles with shrimp": "https://www.themealdb.com/images/media/meals/f3cxnc1765656994.jpg",
+      "sweet and sour chicken": "https://www.themealdb.com/images/media/meals/arzs741766434335.jpg",
+      "sweet and sour pork": "https://www.themealdb.com/images/media/meals/1529442316.jpg",
+      "szechuan beef": "https://www.themealdb.com/images/media/meals/1529443236.jpg",
+      "wontons": "https://www.themealdb.com/images/media/meals/1525876468.jpg"
+    },
+    "Middle Eastern": {
+      "falafel": "https://www.themealdb.com/images/media/meals/u5e9qq1763795441.jpg",
+      "hummus": "https://www.themealdb.com/images/media/meals/gpon5u1763801180.jpg",
+      "baba ganoush": "https://www.themealdb.com/images/media/meals/dlmh401760524897.jpg",
+      "shakshuka": "https://www.themealdb.com/images/media/meals/g373701551450225.jpg",
+      "lentil soup": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Lentil_soup_done.jpg/960px-Lentil_soup_done.jpg",
+      "egyptian fatteh": "https://www.themealdb.com/images/media/meals/rlwcc51598734603.jpg",
+      "feteer meshaltet": "https://www.themealdb.com/images/media/meals/9f4z6v1598734293.jpg",
+      "ful medames": "https://www.themealdb.com/images/media/meals/lvn2d51598732465.jpg",
+      "koshari": "https://www.themealdb.com/images/media/meals/4er7mj1598733193.jpg",
+      "mulukhiyah": "https://www.themealdb.com/images/media/meals/x372ug1598733932.jpg",
+      "shawarma": "https://www.themealdb.com/images/media/meals/kcv6hj1598733479.jpg",
+      "tamiya": "https://www.themealdb.com/images/media/meals/n3xxd91598732796.jpg",
+      "chicken couscous": "https://www.themealdb.com/images/media/meals/qxytrx1511304021.jpg",
+      "lamb tagine": "https://www.themealdb.com/images/media/meals/yuwtuu1511295751.jpg",
+      "lamb tomato and sweet spices": "https://www.themealdb.com/images/media/meals/qtwtss1468572261.jpg",
+      "moroccan carrot soup": "https://www.themealdb.com/images/media/meals/jcr46d1614763831.jpg",
+      "spicy north african potato salad": "https://www.themealdb.com/images/media/meals/urtwux1486983078.jpg",
+      "tahini lentils": "https://www.themealdb.com/images/media/meals/vpxyqt1511464175.jpg",
+      "adana kebab": "https://www.themealdb.com/images/media/meals/04axct1763793018.jpg",
+      "apricot & turkish delight mess": "https://www.themealdb.com/images/media/meals/p277uc1764109195.jpg",
+      "aubergine & hummus grills": "https://www.themealdb.com/images/media/meals/zub3s91764110535.jpg",
+      "aubergine couscous salad": "https://www.themealdb.com/images/media/meals/02s6gc1763799560.jpg",
+      "baklava with spiced nuts, ricotta & chocolate": "https://www.themealdb.com/images/media/meals/ytme8t1764111401.jpg",
+      "cacik": "https://www.themealdb.com/images/media/meals/16zbeu1763789342.jpg",
+      "chicken wings with cumin, lemon & garlic": "https://www.themealdb.com/images/media/meals/4hzyvq1763792564.jpg",
+      "chilli ginger lamb chops": "https://www.themealdb.com/images/media/meals/8xuvhj1763794991.jpg",
+      "corba": "https://www.themealdb.com/images/media/meals/58oia61564916529.jpg",
+      "ezme": "https://www.themealdb.com/images/media/meals/pb6mj11763788331.jpg",
+      "griddled aubergines with sesame dressing": "https://www.themealdb.com/images/media/meals/yoj48r1763817100.jpg",
+      "griddled flatbreads": "https://www.themealdb.com/images/media/meals/8825lo1763815264.jpg",
+      "grilled aubergines with spicy chickpeas & walnut sauce": "https://www.themealdb.com/images/media/meals/ctw3ba1763788978.jpg",
+      "hot cumin lamb wrap with crunchy slaw & spicy mayo": "https://www.themealdb.com/images/media/meals/jyylmo1763790808.jpg",
+      "imam bayildi with bbq lamb & tzatziki": "https://www.themealdb.com/images/media/meals/ampz9v1763787134.jpg",
+      "kofta burgers": "https://www.themealdb.com/images/media/meals/lgmnff1763789847.jpg",
+      "kumpir": "https://www.themealdb.com/images/media/meals/mlchx21564916997.jpg",
+      "lamb & apricot meatballs": "https://www.themealdb.com/images/media/meals/72fgzj1764109947.jpg",
+      "roast aubergine with goat's cheese & toasted flatbread": "https://www.themealdb.com/images/media/meals/iydbwy1763816111.jpg",
+      "roasted chicken with creamy walnut sauce": "https://www.themealdb.com/images/media/meals/ro8mzj1763800655.jpg",
+      "slow-roast lamb with cinnamon, fennel & citrus": "https://www.themealdb.com/images/media/meals/gr4lo51763791826.jpg",
+      "smoked aubergine pur\u00e9e": "https://www.themealdb.com/images/media/meals/8c8m4q1763791156.jpg",
+      "smoky chicken skewers": "https://www.themealdb.com/images/media/meals/3um6il1763794322.jpg",
+      "sweet potato salad": "https://www.themealdb.com/images/media/meals/z458v91763817681.jpg",
+      "turkish lamb pilau": "https://www.themealdb.com/images/media/meals/cr2kyr1763793839.jpg",
+      "turkish rice (vermicelli rice)": "https://www.themealdb.com/images/media/meals/xw1ruy1763786501.jpg",
+      "turkish-style lamb": "https://www.themealdb.com/images/media/meals/0p7l6b1763813981.jpg",
+      "walnut, date & honey cake": "https://www.themealdb.com/images/media/meals/towo9c1763814590.jpg",
+      "baba ghanoush": "https://www.themealdb.com/images/media/meals/dlmh401760524897.jpg",
+      "falafel pita sandwich with tahini sauce": "https://www.themealdb.com/images/media/meals/ae6clc1760524712.jpg",
+      "fasoliyyeh bi z-zayt (syrian green beans with olive oil)": "https://www.themealdb.com/images/media/meals/21yc5s1760524759.jpg",
+      "syrian bread": "https://www.themealdb.com/images/media/meals/54xzk31760524666.jpg",
+      "syrian rice with meat": "https://www.themealdb.com/images/media/meals/zg2b9l1760524940.jpg",
+      "syrian spaghetti": "https://www.themealdb.com/images/media/meals/5fu4ew1760524857.jpg",
+      "cashew ghoriba biscuits": "https://www.themealdb.com/images/media/meals/t3r3ka1560461972.jpg",
+      "chakchouka": "https://www.themealdb.com/images/media/meals/gpz67p1560458984.jpg",
+      "kafteji": "https://www.themealdb.com/images/media/meals/1bsv1q1560459826.jpg",
+      "keleya zaara": "https://www.themealdb.com/images/media/meals/8x09hy1560460923.jpg",
+      "leblebi soup": "https://www.themealdb.com/images/media/meals/x2fw9e1560460636.jpg",
+      "tuna and egg briks": "https://www.themealdb.com/images/media/meals/2dsltq1560461468.jpg",
+      "tunisian lamb soup": "https://www.themealdb.com/images/media/meals/t8mn9g1560460231.jpg",
+      "tunisian orange cake": "https://www.themealdb.com/images/media/meals/y4jpgq1560459207.jpg",
+      "chicken quinoa greek salad": "https://www.themealdb.com/images/media/meals/k29viq1585565980.jpg",
+      "garides saganaki": "https://www.themealdb.com/images/media/meals/wuvryu1468232995.jpg",
+      "gigantes plaki": "https://www.themealdb.com/images/media/meals/b79r6f1585566277.jpg",
+      "honey yogurt cheesecake": "https://www.themealdb.com/images/media/meals/y2irzl1585563479.jpg",
+      "lamb and lemon souvlaki": "https://www.themealdb.com/images/media/meals/rjhf741585564676.jpg",
+      "lamb tzatziki burgers": "https://www.themealdb.com/images/media/meals/k420tj1585565244.jpg",
+      "moussaka": "https://www.themealdb.com/images/media/meals/ctg8jd1585563097.jpg",
+      "stuffed lamb tomatoes": "https://www.themealdb.com/images/media/meals/u55lbp1585564013.jpg"
+    },
+    "Japanese": {
+      "miso soup": "https://upload.wikimedia.org/wikipedia/commons/0/00/Miso_Soup.jpg"
+    }
+  },
+  "meta": {
+    "kashmiri::rogan josh": {
+      "name": "Rogan Josh",
+      "cuisine": "Kashmiri",
+      "image_url": "https://www.themealdb.com/images/media/meals/vvstvq1487342592.jpg"
+    },
+    "kashmiri::yakhni pulao": {
+      "name": "Yakhni Pulao",
+      "cuisine": "Kashmiri",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Chicken_Yakhni_Pulao.jpg/960px-Chicken_Yakhni_Pulao.jpg"
+    },
+    "indian::masala dosa": {
+      "name": "Masala Dosa",
+      "cuisine": "Indian",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Masala_dosa_01.jpg/960px-Masala_dosa_01.jpg"
+    },
+    "indian::sambar": {
+      "name": "Sambar",
+      "cuisine": "Indian",
+      "image_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png"
+    },
+    "indian::aloo gobi": {
+      "name": "Aloo Gobi",
+      "cuisine": "Indian",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Aloo_gobi.jpg/960px-Aloo_gobi.jpg"
+    },
+    "indian::pav bhaji": {
+      "name": "Pav Bhaji",
+      "cuisine": "Indian",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bhaji_pav_2.jpg/960px-Bhaji_pav_2.jpg"
+    },
+    "indian::vada pav": {
+      "name": "Vada Pav",
+      "cuisine": "Indian",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Vada_Pav.jpg"
+    },
+    "indian::dhokla": {
+      "name": "Dhokla",
+      "cuisine": "Indian",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dhokla_2.jpg/960px-Dhokla_2.jpg"
+    },
+    "indian::khandvi": {
+      "name": "Khandvi",
+      "cuisine": "Indian",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Khandvi_1.jpg/960px-Khandvi_1.jpg"
+    },
+    "indian::baingan bharta": {
+      "name": "Baingan Bharta",
+      "cuisine": "Indian",
+      "image_url": "https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg"
+    },
+    "indian::tandoori chicken": {
+      "name": "Tandoori Chicken",
+      "cuisine": "Indian",
+      "image_url": "https://www.themealdb.com/images/media/meals/qptpvt1487339892.jpg"
+    },
+    "italian::spaghetti carbonara": {
+      "name": "Spaghetti Carbonara",
+      "cuisine": "Italian",
+      "image_url": "https://www.themealdb.com/images/media/meals/llcbn01574260722.jpg"
+    },
+    "italian::ossobuco milanese": {
+      "name": "Ossobuco Milanese",
+      "cuisine": "Italian",
+      "image_url": "https://www.themealdb.com/images/media/meals/wwuqvt1487345467.jpg"
+    },
+    "italian::saltimbocca alla romana": {
+      "name": "Saltimbocca alla Romana",
+      "cuisine": "Italian",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Saltimbocca_alla_Romana.jpg/960px-Saltimbocca_alla_Romana.jpg"
+    },
+    "italian::cacio e pepe": {
+      "name": "Cacio e Pepe",
+      "cuisine": "Italian",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Cacio_e_pepe.jpg/960px-Cacio_e_pepe.jpg"
+    },
+    "italian::eggplant parmigiana": {
+      "name": "Eggplant Parmigiana",
+      "cuisine": "Italian",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Eggplant_parmigiana.jpg/960px-Eggplant_parmigiana.jpg"
+    },
+    "italian::panna cotta": {
+      "name": "Panna Cotta",
+      "cuisine": "Italian",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Panna_cotta_2_%28fcm%29.JPG/960px-Panna_cotta_2_%28fcm%29.JPG"
+    },
+    "italian::arancini": {
+      "name": "Arancini",
+      "cuisine": "Italian",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Arancini_002.jpg/960px-Arancini_002.jpg"
+    },
+    "italian::ribollita": {
+      "name": "Ribollita",
+      "cuisine": "Italian",
+      "image_url": "https://www.themealdb.com/images/media/meals/xrrwpx1487347049.jpg"
+    },
+    "chinese::kung pao chicken": {
+      "name": "Kung Pao Chicken",
+      "cuisine": "Chinese",
+      "image_url": "https://www.themealdb.com/images/media/meals/1525872624.jpg"
+    },
+    "chinese::mapo tofu": {
+      "name": "Mapo Tofu",
+      "cuisine": "Chinese",
+      "image_url": "https://www.themealdb.com/images/media/meals/1525874812.jpg"
+    },
+    "chinese::hot and sour soup": {
+      "name": "Hot and Sour Soup",
+      "cuisine": "Chinese",
+      "image_url": "https://www.themealdb.com/images/media/meals/1529445893.jpg"
+    },
+    "chinese::xiao long bao": {
+      "name": "Xiao Long Bao",
+      "cuisine": "Chinese",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Xiao_long_bao_3.jpg/960px-Xiao_long_bao_3.jpg"
+    },
+    "chinese::chow mein": {
+      "name": "Chow Mein",
+      "cuisine": "Chinese",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Chow_Mein_1.jpg/960px-Chow_Mein_1.jpg"
+    },
+    "middle eastern::falafel": {
+      "name": "Falafel",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/u5e9qq1763795441.jpg"
+    },
+    "middle eastern::hummus": {
+      "name": "Hummus",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/gpon5u1763801180.jpg"
+    },
+    "middle eastern::baba ganoush": {
+      "name": "Baba Ganoush",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/dlmh401760524897.jpg"
+    },
+    "middle eastern::shakshuka": {
+      "name": "Shakshuka",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/g373701551450225.jpg"
+    },
+    "japanese::miso soup": {
+      "name": "Miso Soup",
+      "cuisine": "Japanese",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Miso_Soup.jpg"
+    },
+    "italian::pasta aglio e olio": {
+      "name": "Pasta Aglio e Olio",
+      "cuisine": "Italian",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Aglio_e_Olio.jpg/960px-Aglio_e_Olio.jpg"
+    },
+    "middle eastern::lentil soup": {
+      "name": "Lentil Soup",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Lentil_soup_done.jpg/960px-Lentil_soup_done.jpg"
+    },
+    "italian::budino di ricotta": {
+      "name": "Budino Di Ricotta",
+      "cuisine": "Italian",
+      "image_url": "https://www.themealdb.com/images/media/meals/1549542877.jpg"
+    },
+    "italian::chicken alfredo primavera": {
+      "name": "Chicken Alfredo Primavera",
+      "cuisine": "Italian",
+      "image_url": "https://www.themealdb.com/images/media/meals/syqypv1486981727.jpg"
+    },
+    "italian::chilli prawn linguine": {
+      "name": "Chilli prawn linguine",
+      "cuisine": "Italian",
+      "image_url": "https://www.themealdb.com/images/media/meals/usywpp1511189717.jpg"
+    },
+    "italian::fettuccine alfredo": {
+      "name": "Fettuccine Alfredo",
+      "cuisine": "Italian",
+      "image_url": "https://www.themealdb.com/images/media/meals/0jv5gx1661040802.jpg"
+    },
+    "italian::fettucine alfredo": {
+      "name": "Fettucine alfredo",
+      "cuisine": "Italian",
+      "image_url": "https://www.themealdb.com/images/media/meals/uquqtu1511178042.jpg"
+    },
+    "italian::lasagne": {
+      "name": "Lasagne",
+      "cuisine": "Italian",
+      "image_url": "https://www.themealdb.com/images/media/meals/wtsvxx1511296896.jpg"
+    },
+    "italian::mediterranean pasta salad": {
+      "name": "Mediterranean Pasta Salad",
+      "cuisine": "Italian",
+      "image_url": "https://www.themealdb.com/images/media/meals/wvqpwt1468339226.jpg"
+    },
+    "italian::osso buco alla milanese": {
+      "name": "Osso Buco alla Milanese",
+      "cuisine": "Italian",
+      "image_url": "https://www.themealdb.com/images/media/meals/wwuqvt1487345467.jpg"
+    },
+    "italian::pilchard puttanesca": {
+      "name": "Pilchard puttanesca",
+      "cuisine": "Italian",
+      "image_url": "https://www.themealdb.com/images/media/meals/vvtvtr1511180578.jpg"
+    },
+    "italian::pizza express margherita": {
+      "name": "Pizza Express Margherita",
+      "cuisine": "Italian",
+      "image_url": "https://www.themealdb.com/images/media/meals/x0lk931587671540.jpg"
+    },
+    "italian::potato gratin with chicken": {
+      "name": "Potato Gratin with Chicken",
+      "cuisine": "Italian",
+      "image_url": "https://www.themealdb.com/images/media/meals/qwrtut1468418027.jpg"
+    },
+    "italian::rigatoni with fennel sausage sauce": {
+      "name": "Rigatoni with fennel sausage sauce",
+      "cuisine": "Italian",
+      "image_url": "https://www.themealdb.com/images/media/meals/qtqvys1468573168.jpg"
+    },
+    "italian::salmon prawn risotto": {
+      "name": "Salmon Prawn Risotto",
+      "cuisine": "Italian",
+      "image_url": "https://www.themealdb.com/images/media/meals/xxrxux1503070723.jpg"
+    },
+    "italian::spaghetti alla carbonara": {
+      "name": "Spaghetti alla Carbonara",
+      "cuisine": "Italian",
+      "image_url": "https://www.themealdb.com/images/media/meals/llcbn01574260722.jpg"
+    },
+    "italian::spaghetti bolognese": {
+      "name": "Spaghetti Bolognese",
+      "cuisine": "Italian",
+      "image_url": "https://www.themealdb.com/images/media/meals/sutysw1468247559.jpg"
+    },
+    "italian::spicy arrabiata penne": {
+      "name": "Spicy Arrabiata Penne",
+      "cuisine": "Italian",
+      "image_url": "https://www.themealdb.com/images/media/meals/ustsqw1468250014.jpg"
+    },
+    "italian::spinach & ricotta cannelloni": {
+      "name": "Spinach & Ricotta Cannelloni",
+      "cuisine": "Italian",
+      "image_url": "https://www.themealdb.com/images/media/meals/wspuvp1511303478.jpg"
+    },
+    "italian::squash linguine": {
+      "name": "Squash linguine",
+      "cuisine": "Italian",
+      "image_url": "https://www.themealdb.com/images/media/meals/wxswxy1511452625.jpg"
+    },
+    "italian::vegan lasagna": {
+      "name": "Vegan Lasagna",
+      "cuisine": "Italian",
+      "image_url": "https://www.themealdb.com/images/media/meals/rvxxuy1468312893.jpg"
+    },
+    "italian::venetian duck ragu": {
+      "name": "Venetian Duck Ragu",
+      "cuisine": "Italian",
+      "image_url": "https://www.themealdb.com/images/media/meals/qvrwpt1511181864.jpg"
+    },
+    "chinese::air fryer egg rolls": {
+      "name": "Air Fryer Egg Rolls",
+      "cuisine": "Chinese",
+      "image_url": "https://www.themealdb.com/images/media/meals/grhn401765687086.jpg"
+    },
+    "chinese::beef and broccoli stir-fry": {
+      "name": "Beef and Broccoli Stir-Fry",
+      "cuisine": "Chinese",
+      "image_url": "https://www.themealdb.com/images/media/meals/m0p0j81765568742.jpg"
+    },
+    "chinese::beef lo mein": {
+      "name": "Beef Lo Mein",
+      "cuisine": "Chinese",
+      "image_url": "https://www.themealdb.com/images/media/meals/1529444830.jpg"
+    },
+    "chinese::chicken congee": {
+      "name": "Chicken Congee",
+      "cuisine": "Chinese",
+      "image_url": "https://www.themealdb.com/images/media/meals/1529446352.jpg"
+    },
+    "chinese::chicken fried rice": {
+      "name": "Chicken Fried Rice",
+      "cuisine": "Chinese",
+      "image_url": "https://www.themealdb.com/images/media/meals/wuyd2h1765655837.jpg"
+    },
+    "chinese::chinese orange chicken": {
+      "name": "Chinese Orange Chicken",
+      "cuisine": "Chinese",
+      "image_url": "https://www.themealdb.com/images/media/meals/s73ytv1765567838.jpg"
+    },
+    "chinese::chinese tomato egg stir fry": {
+      "name": "Chinese Tomato Egg Stir Fry",
+      "cuisine": "Chinese",
+      "image_url": "https://www.themealdb.com/images/media/meals/rwvw8q1765660071.jpg"
+    },
+    "chinese::egg drop soup": {
+      "name": "Egg Drop Soup",
+      "cuisine": "Chinese",
+      "image_url": "https://www.themealdb.com/images/media/meals/1529446137.jpg"
+    },
+    "chinese::egg foo young": {
+      "name": "Egg Foo Young",
+      "cuisine": "Chinese",
+      "image_url": "https://www.themealdb.com/images/media/meals/47y6ii1765658818.jpg"
+    },
+    "chinese::general tsos chicken": {
+      "name": "General Tsos Chicken",
+      "cuisine": "Chinese",
+      "image_url": "https://www.themealdb.com/images/media/meals/1529444113.jpg"
+    },
+    "chinese::kung po prawns": {
+      "name": "Kung Po Prawns",
+      "cuisine": "Chinese",
+      "image_url": "https://www.themealdb.com/images/media/meals/1525873040.jpg"
+    },
+    "chinese::ma po tofu": {
+      "name": "Ma Po Tofu",
+      "cuisine": "Chinese",
+      "image_url": "https://www.themealdb.com/images/media/meals/1525874812.jpg"
+    },
+    "chinese::napa cabbage with dried shrimp": {
+      "name": "Napa Cabbage with Dried Shrimp",
+      "cuisine": "Chinese",
+      "image_url": "https://www.themealdb.com/images/media/meals/9nh4dl1766435484.jpg"
+    },
+    "chinese::ramen noodles with boiled egg": {
+      "name": "Ramen Noodles with Boiled Egg",
+      "cuisine": "Chinese",
+      "image_url": "https://www.themealdb.com/images/media/meals/ip5xtp1769779958.jpg"
+    },
+    "chinese::sesame cucumber salad": {
+      "name": "Sesame Cucumber Salad",
+      "cuisine": "Chinese",
+      "image_url": "https://www.themealdb.com/images/media/meals/93iok31766436070.jpg"
+    },
+    "chinese::shrimp chow fun": {
+      "name": "Shrimp Chow Fun",
+      "cuisine": "Chinese",
+      "image_url": "https://www.themealdb.com/images/media/meals/1529445434.jpg"
+    },
+    "chinese::shrimp with snow peas": {
+      "name": "Shrimp With Snow Peas",
+      "cuisine": "Chinese",
+      "image_url": "https://www.themealdb.com/images/media/meals/fpl3mv1766433431.jpg"
+    },
+    "chinese::sichuan eggplant": {
+      "name": "Sichuan Eggplant",
+      "cuisine": "Chinese",
+      "image_url": "https://www.themealdb.com/images/media/meals/1oz4nb1765687990.jpg"
+    },
+    "chinese::sichuan style stir-fried chinese long beans": {
+      "name": "Sichuan Style Stir-Fried Chinese Long Beans",
+      "cuisine": "Chinese",
+      "image_url": "https://www.themealdb.com/images/media/meals/i0610h1765659464.jpg"
+    },
+    "chinese::silken tofu with sesame soy sauce": {
+      "name": "Silken Tofu with Sesame Soy Sauce",
+      "cuisine": "Chinese",
+      "image_url": "https://www.themealdb.com/images/media/meals/j9nray1765657692.jpg"
+    },
+    "chinese::singapore noodles with shrimp": {
+      "name": "Singapore Noodles with Shrimp",
+      "cuisine": "Chinese",
+      "image_url": "https://www.themealdb.com/images/media/meals/f3cxnc1765656994.jpg"
+    },
+    "chinese::sweet and sour chicken": {
+      "name": "Sweet and Sour Chicken",
+      "cuisine": "Chinese",
+      "image_url": "https://www.themealdb.com/images/media/meals/arzs741766434335.jpg"
+    },
+    "chinese::sweet and sour pork": {
+      "name": "Sweet and Sour Pork",
+      "cuisine": "Chinese",
+      "image_url": "https://www.themealdb.com/images/media/meals/1529442316.jpg"
+    },
+    "chinese::szechuan beef": {
+      "name": "Szechuan Beef",
+      "cuisine": "Chinese",
+      "image_url": "https://www.themealdb.com/images/media/meals/1529443236.jpg"
+    },
+    "chinese::wontons": {
+      "name": "Wontons",
+      "cuisine": "Chinese",
+      "image_url": "https://www.themealdb.com/images/media/meals/1525876468.jpg"
+    },
+    "middle eastern::egyptian fatteh": {
+      "name": "Egyptian Fatteh",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/rlwcc51598734603.jpg"
+    },
+    "middle eastern::feteer meshaltet": {
+      "name": "Feteer Meshaltet",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/9f4z6v1598734293.jpg"
+    },
+    "middle eastern::ful medames": {
+      "name": "Ful Medames",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/lvn2d51598732465.jpg"
+    },
+    "middle eastern::koshari": {
+      "name": "Koshari",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/4er7mj1598733193.jpg"
+    },
+    "middle eastern::mulukhiyah": {
+      "name": "Mulukhiyah",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/x372ug1598733932.jpg"
+    },
+    "middle eastern::shawarma": {
+      "name": "Shawarma",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/kcv6hj1598733479.jpg"
+    },
+    "middle eastern::tamiya": {
+      "name": "Tamiya",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/n3xxd91598732796.jpg"
+    },
+    "middle eastern::chicken couscous": {
+      "name": "Chicken Couscous",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/qxytrx1511304021.jpg"
+    },
+    "middle eastern::lamb tagine": {
+      "name": "Lamb Tagine",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/yuwtuu1511295751.jpg"
+    },
+    "middle eastern::lamb tomato and sweet spices": {
+      "name": "Lamb tomato and sweet spices",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/qtwtss1468572261.jpg"
+    },
+    "middle eastern::moroccan carrot soup": {
+      "name": "Moroccan Carrot Soup",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/jcr46d1614763831.jpg"
+    },
+    "middle eastern::spicy north african potato salad": {
+      "name": "Spicy North African Potato Salad",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/urtwux1486983078.jpg"
+    },
+    "middle eastern::tahini lentils": {
+      "name": "Tahini Lentils",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/vpxyqt1511464175.jpg"
+    },
+    "middle eastern::adana kebab": {
+      "name": "Adana kebab",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/04axct1763793018.jpg"
+    },
+    "middle eastern::apricot & turkish delight mess": {
+      "name": "Apricot & Turkish delight mess",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/p277uc1764109195.jpg"
+    },
+    "middle eastern::aubergine & hummus grills": {
+      "name": "Aubergine & hummus grills",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/zub3s91764110535.jpg"
+    },
+    "middle eastern::aubergine couscous salad": {
+      "name": "Aubergine couscous salad",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/02s6gc1763799560.jpg"
+    },
+    "middle eastern::baklava with spiced nuts, ricotta & chocolate": {
+      "name": "Baklava with spiced nuts, ricotta & chocolate",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/ytme8t1764111401.jpg"
+    },
+    "middle eastern::cacik": {
+      "name": "Cacik",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/16zbeu1763789342.jpg"
+    },
+    "middle eastern::chicken wings with cumin, lemon & garlic": {
+      "name": "Chicken wings with cumin, lemon & garlic",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/4hzyvq1763792564.jpg"
+    },
+    "middle eastern::chilli ginger lamb chops": {
+      "name": "Chilli ginger lamb chops",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/8xuvhj1763794991.jpg"
+    },
+    "middle eastern::corba": {
+      "name": "Corba",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/58oia61564916529.jpg"
+    },
+    "middle eastern::ezme": {
+      "name": "Ezme",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/pb6mj11763788331.jpg"
+    },
+    "middle eastern::griddled aubergines with sesame dressing": {
+      "name": "Griddled aubergines with sesame dressing",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/yoj48r1763817100.jpg"
+    },
+    "middle eastern::griddled flatbreads": {
+      "name": "Griddled flatbreads",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/8825lo1763815264.jpg"
+    },
+    "middle eastern::grilled aubergines with spicy chickpeas & walnut sauce": {
+      "name": "Grilled aubergines with spicy chickpeas & walnut sauce",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/ctw3ba1763788978.jpg"
+    },
+    "middle eastern::hot cumin lamb wrap with crunchy slaw & spicy mayo": {
+      "name": "Hot cumin lamb wrap with crunchy slaw & spicy mayo",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/jyylmo1763790808.jpg"
+    },
+    "middle eastern::imam bayildi with bbq lamb & tzatziki": {
+      "name": "Imam bayildi with BBQ lamb & tzatziki",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/ampz9v1763787134.jpg"
+    },
+    "middle eastern::kofta burgers": {
+      "name": "kofta burgers",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/lgmnff1763789847.jpg"
+    },
+    "middle eastern::kumpir": {
+      "name": "Kumpir",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/mlchx21564916997.jpg"
+    },
+    "middle eastern::lamb & apricot meatballs": {
+      "name": "Lamb & apricot meatballs",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/72fgzj1764109947.jpg"
+    },
+    "middle eastern::roast aubergine with goat's cheese & toasted flatbread": {
+      "name": "Roast aubergine with goat's cheese & toasted flatbread",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/iydbwy1763816111.jpg"
+    },
+    "middle eastern::roasted chicken with creamy walnut sauce": {
+      "name": "Roasted chicken with creamy walnut sauce",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/ro8mzj1763800655.jpg"
+    },
+    "middle eastern::slow-roast lamb with cinnamon, fennel & citrus": {
+      "name": "Slow-roast lamb with cinnamon, fennel & citrus",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/gr4lo51763791826.jpg"
+    },
+    "middle eastern::smoked aubergine pur\u00e9e": {
+      "name": "Smoked aubergine pur\u00e9e",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/8c8m4q1763791156.jpg"
+    },
+    "middle eastern::smoky chicken skewers": {
+      "name": "Smoky chicken skewers",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/3um6il1763794322.jpg"
+    },
+    "middle eastern::sweet potato salad": {
+      "name": "Sweet potato salad",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/z458v91763817681.jpg"
+    },
+    "middle eastern::turkish lamb pilau": {
+      "name": "Turkish lamb pilau",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/cr2kyr1763793839.jpg"
+    },
+    "middle eastern::turkish rice (vermicelli rice)": {
+      "name": "Turkish rice (vermicelli rice)",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/xw1ruy1763786501.jpg"
+    },
+    "middle eastern::turkish-style lamb": {
+      "name": "Turkish-style lamb",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/0p7l6b1763813981.jpg"
+    },
+    "middle eastern::walnut, date & honey cake": {
+      "name": "Walnut, date & honey cake",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/towo9c1763814590.jpg"
+    },
+    "middle eastern::baba ghanoush": {
+      "name": "Baba Ghanoush",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/dlmh401760524897.jpg"
+    },
+    "middle eastern::falafel pita sandwich with tahini sauce": {
+      "name": "Falafel Pita Sandwich with Tahini Sauce",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/ae6clc1760524712.jpg"
+    },
+    "middle eastern::fasoliyyeh bi z-zayt (syrian green beans with olive oil)": {
+      "name": "Fasoliyyeh Bi Z-Zayt (Syrian Green Beans with Olive Oil)",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/21yc5s1760524759.jpg"
+    },
+    "middle eastern::syrian bread": {
+      "name": "Syrian Bread",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/54xzk31760524666.jpg"
+    },
+    "middle eastern::syrian rice with meat": {
+      "name": "Syrian Rice with Meat",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/zg2b9l1760524940.jpg"
+    },
+    "middle eastern::syrian spaghetti": {
+      "name": "Syrian Spaghetti",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/5fu4ew1760524857.jpg"
+    },
+    "middle eastern::cashew ghoriba biscuits": {
+      "name": "Cashew Ghoriba Biscuits",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/t3r3ka1560461972.jpg"
+    },
+    "middle eastern::chakchouka": {
+      "name": "Chakchouka ",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/gpz67p1560458984.jpg"
+    },
+    "middle eastern::kafteji": {
+      "name": "Kafteji",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/1bsv1q1560459826.jpg"
+    },
+    "middle eastern::keleya zaara": {
+      "name": "Keleya Zaara",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/8x09hy1560460923.jpg"
+    },
+    "middle eastern::leblebi soup": {
+      "name": "Leblebi Soup",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/x2fw9e1560460636.jpg"
+    },
+    "middle eastern::tuna and egg briks": {
+      "name": "Tuna and Egg Briks",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/2dsltq1560461468.jpg"
+    },
+    "middle eastern::tunisian lamb soup": {
+      "name": "Tunisian Lamb Soup",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/t8mn9g1560460231.jpg"
+    },
+    "middle eastern::tunisian orange cake": {
+      "name": "Tunisian Orange Cake",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/y4jpgq1560459207.jpg"
+    },
+    "middle eastern::chicken quinoa greek salad": {
+      "name": "Chicken Quinoa Greek Salad",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/k29viq1585565980.jpg"
+    },
+    "middle eastern::garides saganaki": {
+      "name": "Garides Saganaki",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/wuvryu1468232995.jpg"
+    },
+    "middle eastern::gigantes plaki": {
+      "name": "Gigantes Plaki",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/b79r6f1585566277.jpg"
+    },
+    "middle eastern::honey yogurt cheesecake": {
+      "name": "Honey Yogurt Cheesecake",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/y2irzl1585563479.jpg"
+    },
+    "middle eastern::lamb and lemon souvlaki": {
+      "name": "Lamb and Lemon Souvlaki",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/rjhf741585564676.jpg"
+    },
+    "middle eastern::lamb tzatziki burgers": {
+      "name": "Lamb Tzatziki Burgers",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/k420tj1585565244.jpg"
+    },
+    "middle eastern::moussaka": {
+      "name": "Moussaka",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/ctg8jd1585563097.jpg"
+    },
+    "middle eastern::stuffed lamb tomatoes": {
+      "name": "Stuffed Lamb Tomatoes",
+      "cuisine": "Middle Eastern",
+      "image_url": "https://www.themealdb.com/images/media/meals/u55lbp1585564013.jpg"
+    }
+  }
+}

@@ -1,0 +1,383 @@
+[
+  {
+    "name": "Kung Pao Chicken",
+    "cuisine": "Chinese",
+    "instructions": "Stir-fry chicken peanuts dried chiles with soy-vinegar glaze.",
+    "prep_minutes": 35,
+    "calories_per_serving": 440,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Chicken",
+        "amount": 500,
+        "unit": "g"
+      },
+      {
+        "name": "Peanuts",
+        "amount": 60,
+        "unit": "g"
+      },
+      {
+        "name": "Dried chiles",
+        "amount": 8,
+        "unit": "each"
+      }
+    ],
+    "diet_tags": [
+      "high-protein"
+    ],
+    "health_notes": [
+      "diabetes-friendly"
+    ]
+  },
+  {
+    "name": "Mapo Tofu",
+    "cuisine": "Chinese",
+    "instructions": "Silken tofu in spicy fermented bean sauce with minced pork.",
+    "prep_minutes": 25,
+    "calories_per_serving": 360,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Tofu",
+        "amount": 400,
+        "unit": "g"
+      },
+      {
+        "name": "Pork mince",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Doubanjiang",
+        "amount": 2,
+        "unit": "tbsp"
+      }
+    ],
+    "diet_tags": [
+      "high-protein"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ]
+  },
+  {
+    "name": "Char Siu Pork",
+    "cuisine": "Chinese",
+    "instructions": "Oven or grill pork shoulder with hoisin honey glaze.",
+    "prep_minutes": 50,
+    "calories_per_serving": 480,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Pork shoulder",
+        "amount": 700,
+        "unit": "g"
+      },
+      {
+        "name": "Hoisin",
+        "amount": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Honey",
+        "amount": 2,
+        "unit": "tbsp"
+      }
+    ],
+    "diet_tags": [
+      "high-protein"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ]
+  },
+  {
+    "name": "Hot and Sour Soup",
+    "cuisine": "Chinese",
+    "instructions": "Wood ear tofu bamboo in pepper-vinegar broth.",
+    "prep_minutes": 30,
+    "calories_per_serving": 180,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Tofu",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Wood ear",
+        "amount": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Vinegar",
+        "amount": 2,
+        "unit": "tbsp"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "low-carb"
+    ]
+  },
+  {
+    "name": "Xiao Long Bao",
+    "cuisine": "Chinese",
+    "instructions": "Soup dumplings with gelatin broth inside pleated wrappers.",
+    "prep_minutes": 90,
+    "calories_per_serving": 320,
+    "servings": 6,
+    "ingredients": [
+      {
+        "name": "Pork mince",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "Dumpling wrappers",
+        "amount": 24,
+        "unit": "each"
+      },
+      {
+        "name": "Ginger",
+        "amount": 1,
+        "unit": "tbsp"
+      }
+    ],
+    "diet_tags": [
+      "high-protein"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ]
+  },
+  {
+    "name": "Chow Mein",
+    "cuisine": "Chinese",
+    "instructions": "Wok noodles with cabbage carrot and light soy.",
+    "prep_minutes": 22,
+    "calories_per_serving": 380,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Egg noodles",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "Cabbage",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Soy sauce",
+        "amount": 2,
+        "unit": "tbsp"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian"
+    ],
+    "health_notes": [
+      "high-fiber"
+    ]
+  },
+  {
+    "name": "Congee",
+    "cuisine": "Chinese",
+    "instructions": "Slow rice porridge with ginger scallion and optional egg.",
+    "prep_minutes": 90,
+    "calories_per_serving": 200,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Rice",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Ginger",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Scallion",
+        "amount": 3,
+        "unit": "stalks"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "diabetes-friendly"
+    ]
+  },
+  {
+    "name": "Twice-Cooked Pork",
+    "cuisine": "Chinese",
+    "instructions": "Boil then stir-fry pork belly with leek and fermented black beans.",
+    "prep_minutes": 40,
+    "calories_per_serving": 520,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Pork belly",
+        "amount": 450,
+        "unit": "g"
+      },
+      {
+        "name": "Leek",
+        "amount": 2,
+        "unit": "each"
+      },
+      {
+        "name": "Black beans",
+        "amount": 1,
+        "unit": "tbsp"
+      }
+    ],
+    "diet_tags": [
+      "high-protein"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ]
+  },
+  {
+    "name": "Ma Po Eggplant",
+    "cuisine": "Chinese",
+    "instructions": "Vegetarian mapo-style eggplant with chili bean paste.",
+    "prep_minutes": 28,
+    "calories_per_serving": 280,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Eggplant",
+        "amount": 600,
+        "unit": "g"
+      },
+      {
+        "name": "Doubanjiang",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Garlic",
+        "amount": 4,
+        "unit": "cloves"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "high-fiber"
+    ]
+  },
+  {
+    "name": "Scallion Pancakes",
+    "cuisine": "Chinese",
+    "instructions": "Layered flaky pancakes with scallion oil.",
+    "prep_minutes": 35,
+    "calories_per_serving": 260,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Flour",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "Scallion",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "Oil",
+        "amount": 4,
+        "unit": "tbsp"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Cong_You_Bing.jpg/960px-Cong_You_Bing.jpg"
+  },
+  {
+    "name": "Steamed Sea Bass",
+    "cuisine": "Chinese",
+    "instructions": "Whole fish ginger soy steam until just opaque.",
+    "prep_minutes": 25,
+    "calories_per_serving": 320,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Sea bass",
+        "amount": 700,
+        "unit": "g"
+      },
+      {
+        "name": "Ginger",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Soy sauce",
+        "amount": 3,
+        "unit": "tbsp"
+      }
+    ],
+    "diet_tags": [
+      "high-protein",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ]
+  },
+  {
+    "name": "Egg Fried Rice",
+    "cuisine": "Chinese",
+    "instructions": "Day-old rice wok-tossed with egg peas light soy.",
+    "prep_minutes": 15,
+    "calories_per_serving": 340,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Rice",
+        "amount": 400,
+        "unit": "g cooked"
+      },
+      {
+        "name": "Egg",
+        "amount": 2,
+        "unit": "each"
+      },
+      {
+        "name": "Peas",
+        "amount": 80,
+        "unit": "g"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "high-protein"
+    ],
+    "health_notes": [
+      "diabetes-friendly"
+    ]
+  }
+]

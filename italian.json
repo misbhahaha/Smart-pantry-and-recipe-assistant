@@ -1,0 +1,383 @@
+[
+  {
+    "name": "Spaghetti Carbonara",
+    "cuisine": "Italian",
+    "instructions": "Toss hot pasta with egg pecorino guanciale and black pepper off heat.",
+    "prep_minutes": 25,
+    "calories_per_serving": 520,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Spaghetti",
+        "amount": 320,
+        "unit": "g"
+      },
+      {
+        "name": "Guanciale",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "Pecorino",
+        "amount": 80,
+        "unit": "g"
+      }
+    ],
+    "diet_tags": [
+      "high-protein"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ],
+    "image_url": "https://www.themealdb.com/images/media/meals/llcbn01574260722.jpg"
+  },
+  {
+    "name": "Risotto ai Funghi",
+    "cuisine": "Italian",
+    "instructions": "Toast arborio with wine then ladle hot stock until creamy fold mushrooms.",
+    "prep_minutes": 40,
+    "calories_per_serving": 410,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Arborio rice",
+        "amount": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Mushrooms",
+        "amount": 250,
+        "unit": "g"
+      },
+      {
+        "name": "Parmesan",
+        "amount": 60,
+        "unit": "g"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "diabetes-friendly"
+    ]
+  },
+  {
+    "name": "Ossobuco Milanese",
+    "cuisine": "Italian",
+    "instructions": "Braise veal shanks with white wine broth until fork tender.",
+    "prep_minutes": 120,
+    "calories_per_serving": 450,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Veal shanks",
+        "amount": 800,
+        "unit": "g"
+      },
+      {
+        "name": "White wine",
+        "amount": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "Carrot",
+        "amount": 2,
+        "unit": "each"
+      }
+    ],
+    "diet_tags": [
+      "high-protein",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ]
+  },
+  {
+    "name": "Margherita Pizza",
+    "cuisine": "Italian",
+    "instructions": "Thin crust with tomato mozzarella basil and olive oil.",
+    "prep_minutes": 35,
+    "calories_per_serving": 380,
+    "servings": 2,
+    "ingredients": [
+      {
+        "name": "Pizza dough",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "Mozzarella",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Tomato sauce",
+        "amount": 120,
+        "unit": "ml"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ]
+  },
+  {
+    "name": "Minestrone",
+    "cuisine": "Italian",
+    "instructions": "Bean vegetable soup with pasta and parmesan finish.",
+    "prep_minutes": 50,
+    "calories_per_serving": 240,
+    "servings": 6,
+    "ingredients": [
+      {
+        "name": "Cannellini beans",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Zucchini",
+        "amount": 1,
+        "unit": "each"
+      },
+      {
+        "name": "Pasta",
+        "amount": 80,
+        "unit": "g"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "health_notes": [
+      "high-fiber"
+    ]
+  },
+  {
+    "name": "Saltimbocca alla Romana",
+    "cuisine": "Italian",
+    "instructions": "Veal sage prosciutto quickly pan-seared with white wine.",
+    "prep_minutes": 30,
+    "calories_per_serving": 440,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Veal cutlets",
+        "amount": 500,
+        "unit": "g"
+      },
+      {
+        "name": "Prosciutto",
+        "amount": 8,
+        "unit": "slices"
+      },
+      {
+        "name": "Sage",
+        "amount": 12,
+        "unit": "leaves"
+      }
+    ],
+    "diet_tags": [
+      "high-protein",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ]
+  },
+  {
+    "name": "Cacio e Pepe",
+    "cuisine": "Italian",
+    "instructions": "Pasta with pecorino and cracked black pepper using starchy water.",
+    "prep_minutes": 20,
+    "calories_per_serving": 460,
+    "servings": 3,
+    "ingredients": [
+      {
+        "name": "Spaghetti",
+        "amount": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Pecorino",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "Black pepper",
+        "amount": 2,
+        "unit": "tsp"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ]
+  },
+  {
+    "name": "Eggplant Parmigiana",
+    "cuisine": "Italian",
+    "instructions": "Layer fried eggplant tomato mozzarella bake until bubbling.",
+    "prep_minutes": 65,
+    "calories_per_serving": 420,
+    "servings": 6,
+    "ingredients": [
+      {
+        "name": "Eggplant",
+        "amount": 900,
+        "unit": "g"
+      },
+      {
+        "name": "Mozzarella",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Tomato sauce",
+        "amount": 400,
+        "unit": "ml"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "high-fiber"
+    ]
+  },
+  {
+    "name": "Panna Cotta",
+    "cuisine": "Italian",
+    "instructions": "Vanilla cream set with gelatin serve with berry coulis.",
+    "prep_minutes": 25,
+    "calories_per_serving": 280,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Cream",
+        "amount": 400,
+        "unit": "ml"
+      },
+      {
+        "name": "Sugar",
+        "amount": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Berries",
+        "amount": 150,
+        "unit": "g"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ]
+  },
+  {
+    "name": "Arancini",
+    "cuisine": "Italian",
+    "instructions": "Fried risotto balls with mozzarella core and light crumb.",
+    "prep_minutes": 45,
+    "calories_per_serving": 360,
+    "servings": 6,
+    "ingredients": [
+      {
+        "name": "Risotto rice",
+        "amount": 300,
+        "unit": "g cooked"
+      },
+      {
+        "name": "Mozzarella",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "Breadcrumbs",
+        "amount": 80,
+        "unit": "g"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian"
+    ],
+    "health_notes": [
+      "diabetes-friendly"
+    ]
+  },
+  {
+    "name": "Pesto Genovese Pasta",
+    "cuisine": "Italian",
+    "instructions": "Basil pine nut pesto tossed with pasta and pasta water.",
+    "prep_minutes": 20,
+    "calories_per_serving": 420,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Basil",
+        "amount": 60,
+        "unit": "g"
+      },
+      {
+        "name": "Pine nuts",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "Pasta",
+        "amount": 300,
+        "unit": "g"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ],
+    "image_url": "https://www.themealdb.com/images/media/meals/ixvppa1511175062.jpg"
+  },
+  {
+    "name": "Ribollita",
+    "cuisine": "Italian",
+    "instructions": "Tuscan bread vegetable soup reheated for depth.",
+    "prep_minutes": 55,
+    "calories_per_serving": 310,
+    "servings": 6,
+    "ingredients": [
+      {
+        "name": "Cannellini beans",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Kale",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Stale bread",
+        "amount": 150,
+        "unit": "g"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "health_notes": [
+      "high-fiber"
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+# Render API only (no Streamlit / EasyOCR — barcode & label OCR disabled on cloud).
+# Build: pip install -r requirements-render.txt
+# Start: cd backend && uvicorn app.main:app --host 0.0.0.0 --port $PORT
+
+fastapi>=0.115.0,<0.116.0
+uvicorn[standard]>=0.32.0,<0.33.0
+sqlalchemy>=2.0.36,<2.1.0
+pymysql>=1.1.0
+python-multipart>=0.0.9
+passlib>=1.7.4
+itsdangerous>=2.1.0
+httpx>=0.27.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+numpy>=1.24.0
+APScheduler>=3.10.0
+python-dateutil>=2.9.0

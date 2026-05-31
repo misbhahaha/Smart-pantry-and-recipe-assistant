@@ -1,0 +1,1173 @@
+[
+  {
+    "name": "Chana Masala",
+    "cuisine": "Indian",
+    "instructions": "Saut\u00e9 onions and whole spices, add tomatoes and chickpeas, simmer until thick.",
+    "prep_minutes": 40,
+    "calories_per_serving": 380,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Chickpeas",
+        "amount": 400,
+        "unit": "g canned"
+      },
+      {
+        "name": "Tomato",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "Onion",
+        "amount": 1,
+        "unit": "large"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "diabetes-friendly",
+      "high-fiber"
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Chana_Masala_Fry.jpg/960px-Chana_Masala_Fry.jpg"
+  },
+  {
+    "name": "Dal Makhani",
+    "cuisine": "Indian",
+    "instructions": "Slow-cook black lentils with butter tomato and cream until silky.",
+    "prep_minutes": 90,
+    "calories_per_serving": 420,
+    "servings": 6,
+    "ingredients": [
+      {
+        "name": "Black lentils",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Butter",
+        "amount": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Cream",
+        "amount": 100,
+        "unit": "ml"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "high-fiber"
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Dal_Makhani..JPG/960px-Dal_Makhani..JPG"
+  },
+  {
+    "name": "Butter Chicken",
+    "cuisine": "Indian",
+    "instructions": "Grill marinated chicken then simmer in tomato cream sauce.",
+    "prep_minutes": 50,
+    "calories_per_serving": 520,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Chicken",
+        "amount": 600,
+        "unit": "g"
+      },
+      {
+        "name": "Tomato",
+        "amount": 350,
+        "unit": "g"
+      },
+      {
+        "name": "Butter",
+        "amount": 35,
+        "unit": "g"
+      }
+    ],
+    "diet_tags": [
+      "high-protein"
+    ],
+    "health_notes": [
+      "diabetes-friendly"
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Butter_Chicken%2C_City_Grill_Kottayam.jpg/960px-Butter_Chicken%2C_City_Grill_Kottayam.jpg"
+  },
+  {
+    "name": "Palak Paneer",
+    "cuisine": "Indian",
+    "instructions": "Blanch spinach puree with spices fold in seared paneer cubes.",
+    "prep_minutes": 35,
+    "calories_per_serving": 390,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Spinach",
+        "amount": 500,
+        "unit": "g"
+      },
+      {
+        "name": "Paneer",
+        "amount": 250,
+        "unit": "g"
+      },
+      {
+        "name": "Cream",
+        "amount": 80,
+        "unit": "ml"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Palak_Paneer_%28Cottage_cheese_in_spinach_gravy%29.jpg/960px-Palak_Paneer_%28Cottage_cheese_in_spinach_gravy%29.jpg"
+  },
+  {
+    "name": "Hyderabadi Biryani",
+    "cuisine": "Indian",
+    "instructions": "Layer spiced par-cooked rice with marinated chicken and steam.",
+    "prep_minutes": 75,
+    "calories_per_serving": 480,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Basmati rice",
+        "amount": 400,
+        "unit": "g"
+      },
+      {
+        "name": "Chicken",
+        "amount": 500,
+        "unit": "g"
+      },
+      {
+        "name": "Yogurt",
+        "amount": 150,
+        "unit": "g"
+      }
+    ],
+    "diet_tags": [
+      "high-protein"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ]
+  },
+  {
+    "name": "Masala Dosa",
+    "cuisine": "Indian",
+    "instructions": "Fermented rice-lentil crepe with spiced potato filling.",
+    "prep_minutes": 45,
+    "calories_per_serving": 320,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Dosa batter",
+        "amount": 400,
+        "unit": "g"
+      },
+      {
+        "name": "Potato",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "Mustard seeds",
+        "amount": 1,
+        "unit": "tsp"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "high-fiber"
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Masala_dosa_01.jpg/960px-Masala_dosa_01.jpg"
+  },
+  {
+    "name": "Sambar",
+    "cuisine": "Indian",
+    "instructions": "Tamarind lentil stew with vegetables and sambar powder.",
+    "prep_minutes": 35,
+    "calories_per_serving": 220,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Toor dal",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Drumstick",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Tamarind",
+        "amount": 2,
+        "unit": "tbsp"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "high-fiber"
+    ]
+  },
+  {
+    "name": "Aloo Gobi",
+    "cuisine": "Indian",
+    "instructions": "Dry curry of potato cauliflower with turmeric and cumin.",
+    "prep_minutes": 30,
+    "calories_per_serving": 260,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Potato",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "Cauliflower",
+        "amount": 350,
+        "unit": "g"
+      },
+      {
+        "name": "Oil",
+        "amount": 3,
+        "unit": "tbsp"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "diabetes-friendly"
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Aloo_gobi.jpg/960px-Aloo_gobi.jpg"
+  },
+  {
+    "name": "Rogan Mushroom",
+    "cuisine": "Indian",
+    "instructions": "Mushrooms in onion-tomato gravy with kashmiri chili color.",
+    "prep_minutes": 35,
+    "calories_per_serving": 280,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Mushrooms",
+        "amount": 400,
+        "unit": "g"
+      },
+      {
+        "name": "Tomato",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Onion",
+        "amount": 1,
+        "unit": "each"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ]
+  },
+  {
+    "name": "Kerala Fish Curry",
+    "cuisine": "Indian",
+    "instructions": "Coconut milk fish curry with curry leaves and kokum.",
+    "prep_minutes": 40,
+    "calories_per_serving": 380,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Fish fillets",
+        "amount": 500,
+        "unit": "g"
+      },
+      {
+        "name": "Coconut milk",
+        "amount": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "Curry leaves",
+        "amount": 12,
+        "unit": "leaves"
+      }
+    ],
+    "diet_tags": [
+      "high-protein",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ]
+  },
+  {
+    "name": "Poha Breakfast",
+    "cuisine": "Indian",
+    "instructions": "Pressed rice with peanuts turmeric and lemon.",
+    "prep_minutes": 15,
+    "calories_per_serving": 220,
+    "servings": 2,
+    "ingredients": [
+      {
+        "name": "Poha",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Peanuts",
+        "amount": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Lemon",
+        "amount": 1,
+        "unit": "each"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "high-fiber"
+    ]
+  },
+  {
+    "name": "Tandoori Cauliflower",
+    "cuisine": "Indian",
+    "instructions": "Marinate cauliflower florets in yogurt spices then roast hot.",
+    "prep_minutes": 35,
+    "calories_per_serving": 240,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Cauliflower",
+        "amount": 600,
+        "unit": "g"
+      },
+      {
+        "name": "Yogurt",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Chickpea flour",
+        "amount": 2,
+        "unit": "tbsp"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "low-carb"
+    ]
+  },
+  {
+    "name": "Poha",
+    "cuisine": "Indian",
+    "instructions": "Prep aromatics and spices; cook main ingredients until done; adjust salt and finish with herbs.",
+    "prep_minutes": 20,
+    "calories_per_serving": 220,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Flattened rice",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Onion",
+        "amount": 1,
+        "unit": "each"
+      },
+      {
+        "name": "Mustard seeds",
+        "amount": 1,
+        "unit": "tsp"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "high-fiber"
+    ]
+  },
+  {
+    "name": "Upma",
+    "cuisine": "Indian",
+    "instructions": "Prep aromatics and spices; cook main ingredients until done; adjust salt and finish with herbs.",
+    "prep_minutes": 25,
+    "calories_per_serving": 260,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Semolina",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Oil",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Curry leaves",
+        "amount": 8,
+        "unit": "leaves"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "diabetes-friendly"
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Upma_1.jpg/960px-Upma_1.jpg"
+  },
+  {
+    "name": "Vegetable Biryani",
+    "cuisine": "Indian",
+    "instructions": "Prep aromatics and spices; cook main ingredients until done; adjust salt and finish with herbs.",
+    "prep_minutes": 65,
+    "calories_per_serving": 410,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Basmati rice",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "Mixed vegetables",
+        "amount": 350,
+        "unit": "g"
+      },
+      {
+        "name": "Yogurt",
+        "amount": 100,
+        "unit": "g"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "high-fiber"
+    ],
+    "image_url": "https://www.themealdb.com/images/media/meals/x2fw9e1560460636.jpg"
+  },
+  {
+    "name": "Bhindi Masala",
+    "cuisine": "Indian",
+    "instructions": "Prep aromatics and spices; cook main ingredients until done; adjust salt and finish with herbs.",
+    "prep_minutes": 35,
+    "calories_per_serving": 240,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Okra",
+        "amount": 400,
+        "unit": "g"
+      },
+      {
+        "name": "Tomato",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Onion",
+        "amount": 1,
+        "unit": "each"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "high-fiber"
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bhindi_Masala.jpg/960px-Bhindi_Masala.jpg"
+  },
+  {
+    "name": "Malai Kofta",
+    "cuisine": "Indian",
+    "instructions": "Prep aromatics and spices; cook main ingredients until done; adjust salt and finish with herbs.",
+    "prep_minutes": 55,
+    "calories_per_serving": 420,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Potato",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Cream",
+        "amount": 80,
+        "unit": "ml"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ]
+  },
+  {
+    "name": "Shahi Paneer",
+    "cuisine": "Indian",
+    "instructions": "Prep aromatics and spices; cook main ingredients until done; adjust salt and finish with herbs.",
+    "prep_minutes": 40,
+    "calories_per_serving": 450,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "Tomato",
+        "amount": 250,
+        "unit": "g"
+      },
+      {
+        "name": "Cashews",
+        "amount": 40,
+        "unit": "g"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "high-protein"
+    ]
+  },
+  {
+    "name": "Chicken Chettinad",
+    "cuisine": "Indian",
+    "instructions": "Prep aromatics and spices; cook main ingredients until done; adjust salt and finish with herbs.",
+    "prep_minutes": 50,
+    "calories_per_serving": 480,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Chicken",
+        "amount": 500,
+        "unit": "g"
+      },
+      {
+        "name": "Shallots",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "Black pepper",
+        "amount": 1,
+        "unit": "tbsp"
+      }
+    ],
+    "diet_tags": [
+      "high-protein",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ]
+  },
+  {
+    "name": "Rasam",
+    "cuisine": "Indian",
+    "instructions": "Prep aromatics and spices; cook main ingredients until done; adjust salt and finish with herbs.",
+    "prep_minutes": 25,
+    "calories_per_serving": 90,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Toor dal",
+        "amount": 60,
+        "unit": "g"
+      },
+      {
+        "name": "Tamarind",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Tomato",
+        "amount": 120,
+        "unit": "g"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "diabetes-friendly"
+    ]
+  },
+  {
+    "name": "Khichdi",
+    "cuisine": "Indian",
+    "instructions": "Prep aromatics and spices; cook main ingredients until done; adjust salt and finish with herbs.",
+    "prep_minutes": 40,
+    "calories_per_serving": 310,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Rice",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Moong dal",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "Ghee",
+        "amount": 1,
+        "unit": "tbsp"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "diabetes-friendly"
+    ]
+  },
+  {
+    "name": "Pav Bhaji",
+    "cuisine": "Indian",
+    "instructions": "Prep aromatics and spices; cook main ingredients until done; adjust salt and finish with herbs.",
+    "prep_minutes": 45,
+    "calories_per_serving": 380,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Potato",
+        "amount": 400,
+        "unit": "g"
+      },
+      {
+        "name": "Tomato",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Butter",
+        "amount": 40,
+        "unit": "g"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian"
+    ],
+    "health_notes": [
+      "high-fiber"
+    ]
+  },
+  {
+    "name": "Vada Pav",
+    "cuisine": "Indian",
+    "instructions": "Prep aromatics and spices; cook main ingredients until done; adjust salt and finish with herbs.",
+    "prep_minutes": 35,
+    "calories_per_serving": 320,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Potato",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "Gram flour",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "Buns",
+        "amount": 6,
+        "unit": "each"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian"
+    ],
+    "health_notes": [
+      "high-fiber"
+    ]
+  },
+  {
+    "name": "Dhokla",
+    "cuisine": "Indian",
+    "instructions": "Prep aromatics and spices; cook main ingredients until done; adjust salt and finish with herbs.",
+    "prep_minutes": 40,
+    "calories_per_serving": 190,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Gram flour",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Yogurt",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "Mustard seeds",
+        "amount": 1,
+        "unit": "tsp"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "diabetes-friendly"
+    ]
+  },
+  {
+    "name": "Khandvi",
+    "cuisine": "Indian",
+    "instructions": "Prep aromatics and spices; cook main ingredients until done; adjust salt and finish with herbs.",
+    "prep_minutes": 50,
+    "calories_per_serving": 210,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Gram flour",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "Yogurt",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Oil",
+        "amount": 1,
+        "unit": "tbsp"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "high-protein"
+    ]
+  },
+  {
+    "name": "Baingan Bharta",
+    "cuisine": "Indian",
+    "instructions": "Prep aromatics and spices; cook main ingredients until done; adjust salt and finish with herbs.",
+    "prep_minutes": 50,
+    "calories_per_serving": 230,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Eggplant",
+        "amount": 500,
+        "unit": "g"
+      },
+      {
+        "name": "Onion",
+        "amount": 1,
+        "unit": "each"
+      },
+      {
+        "name": "Tomato",
+        "amount": 150,
+        "unit": "g"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "high-fiber"
+    ]
+  },
+  {
+    "name": "Lauki Chana Dal",
+    "cuisine": "Indian",
+    "instructions": "Prep aromatics and spices; cook main ingredients until done; adjust salt and finish with herbs.",
+    "prep_minutes": 45,
+    "calories_per_serving": 260,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Bottle gourd",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "Chana dal",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "Tomato",
+        "amount": 100,
+        "unit": "g"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "high-fiber"
+    ]
+  },
+  {
+    "name": "Rajma Masala",
+    "cuisine": "Indian",
+    "instructions": "Prep aromatics and spices; cook main ingredients until done; adjust salt and finish with herbs.",
+    "prep_minutes": 55,
+    "calories_per_serving": 320,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Kidney beans",
+        "amount": 200,
+        "unit": "g dry"
+      },
+      {
+        "name": "Onion",
+        "amount": 1,
+        "unit": "each"
+      },
+      {
+        "name": "Tomato",
+        "amount": 200,
+        "unit": "g"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "high-protein"
+    ]
+  },
+  {
+    "name": "Kadhi Pakora",
+    "cuisine": "Indian",
+    "instructions": "Prep aromatics and spices; cook main ingredients until done; adjust salt and finish with herbs.",
+    "prep_minutes": 40,
+    "calories_per_serving": 280,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Gram flour",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "Yogurt",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "Oil",
+        "amount": 2,
+        "unit": "tbsp"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian"
+    ],
+    "health_notes": [
+      "diabetes-friendly"
+    ]
+  },
+  {
+    "name": "Methi Matar Malai",
+    "cuisine": "Indian",
+    "instructions": "Prep aromatics and spices; cook main ingredients until done; adjust salt and finish with herbs.",
+    "prep_minutes": 35,
+    "calories_per_serving": 340,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Fenugreek leaves",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Peas",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "Cream",
+        "amount": 60,
+        "unit": "ml"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "high-fiber"
+    ]
+  },
+  {
+    "name": "Goan Fish Curry",
+    "cuisine": "Indian",
+    "instructions": "Prep aromatics and spices; cook main ingredients until done; adjust salt and finish with herbs.",
+    "prep_minutes": 40,
+    "calories_per_serving": 360,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Fish",
+        "amount": 450,
+        "unit": "g"
+      },
+      {
+        "name": "Coconut milk",
+        "amount": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "Kokum",
+        "amount": 3,
+        "unit": "each"
+      }
+    ],
+    "diet_tags": [
+      "high-protein",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ]
+  },
+  {
+    "name": "Lamb Vindaloo",
+    "cuisine": "Indian",
+    "instructions": "Prep aromatics and spices; cook main ingredients until done; adjust salt and finish with herbs.",
+    "prep_minutes": 55,
+    "calories_per_serving": 440,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Lamb",
+        "amount": 500,
+        "unit": "g"
+      },
+      {
+        "name": "Vinegar",
+        "amount": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Kashmiri chili",
+        "amount": 2,
+        "unit": "tsp"
+      }
+    ],
+    "diet_tags": [
+      "high-protein",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ]
+  },
+  {
+    "name": "Tandoori Chicken",
+    "cuisine": "Indian",
+    "instructions": "Prep aromatics and spices; cook main ingredients until done; adjust salt and finish with herbs.",
+    "prep_minutes": 50,
+    "calories_per_serving": 380,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Chicken",
+        "amount": 600,
+        "unit": "g"
+      },
+      {
+        "name": "Yogurt",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Lemon",
+        "amount": 1,
+        "unit": "each"
+      }
+    ],
+    "diet_tags": [
+      "high-protein",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "high-protein"
+    ]
+  },
+  {
+    "name": "Keema Matar",
+    "cuisine": "Indian",
+    "instructions": "Prep aromatics and spices; cook main ingredients until done; adjust salt and finish with herbs.",
+    "prep_minutes": 40,
+    "calories_per_serving": 420,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Ground lamb",
+        "amount": 400,
+        "unit": "g"
+      },
+      {
+        "name": "Peas",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Onion",
+        "amount": 1,
+        "unit": "each"
+      }
+    ],
+    "diet_tags": [
+      "high-protein",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "heart-healthy"
+    ]
+  },
+  {
+    "name": "Pesarattu",
+    "cuisine": "Indian",
+    "instructions": "Prep aromatics and spices; cook main ingredients until done; adjust salt and finish with herbs.",
+    "prep_minutes": 30,
+    "calories_per_serving": 240,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Green moong dal",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Ginger",
+        "amount": 1,
+        "unit": "inch"
+      },
+      {
+        "name": "Oil",
+        "amount": 2,
+        "unit": "tbsp"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "high-fiber"
+    ]
+  },
+  {
+    "name": "Appam with Stew",
+    "cuisine": "Indian",
+    "instructions": "Prep aromatics and spices; cook main ingredients until done; adjust salt and finish with herbs.",
+    "prep_minutes": 50,
+    "calories_per_serving": 310,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Rice flour",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Coconut milk",
+        "amount": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "Vegetables",
+        "amount": 200,
+        "unit": "g"
+      }
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "health_notes": [
+      "diabetes-friendly"
+    ]
+  }
+]
